@@ -32,3 +32,8 @@
 - Output: investors/001-warren-buffett/key-writings.md (~2,770 words, 35 sources)
 - Notes: Completed Buffett key-writings file with explicit provenance split between Buffett-authored letters/essays/notes and edited or interpretive compilations. November 2025 Thanksgiving letter and 2025 Abel annual letter flagged as the authorship boundary for future Berkshire letters.
 - Backlog added: None
+
+## 2026-06-10T12:45:16Z — T0007 — 001-warren-buffett — G-mental-models — DONE
+- Output: investors/001-warren-buffett/mental-models.md (~2,379 words, 21 sources)
+- Notes: Reconstructed Buffett's operating checklist from primary letters, partnership materials, transcripts, filings, and legal/regulatory sources. Emphasized owner mindset, circle of competence, moat/float/cash/reputation risk limits, sell discipline, failure modes, and transferability limits around Berkshire-specific float, permanent capital, reputation, tax, and deal-flow advantages.
+- Backlog added: None
