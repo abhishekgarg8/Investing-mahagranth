@@ -12,3 +12,8 @@
 - Output: investors/001-warren-buffett/investment-philosophy.md (~2,779 words, 17 sources)
 - Notes: Distilled Buffett's philosophy around business ownership, intrinsic value, float/permanent capital, moats, risk/reputation controls, and transferability limits. Tensions flagged: public-stock flexibility, decentralized-model misconduct risk, crisis-era conflicts, and scale.
 - Backlog added: None
+
+## 2026-06-10T08:31:21Z — T0003 — 001-warren-buffett — C-greatest-trades — DONE
+- Output: investors/001-warren-buffett/greatest-trades.md (~3,262 words, 14 sources)
+- Notes: Ranked Buffett's major trades by strategic and absolute-dollar impact; GEICO flagged as best strategic trade, Apple as largest observable public-equity dollar win. Exact P&L caveats preserved for Apple, Goldman, and the 1964 American Express partnership trade.
+- Backlog added: None
