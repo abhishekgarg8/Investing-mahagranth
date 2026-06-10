@@ -1,6 +1,6 @@
 # Warren Buffett - Source Map
 
-As of: 2026-06-10T11:43:51Z
+As of: 2026-06-10T12:45:16Z
 
 ## Ranked Sources
 
@@ -138,3 +138,14 @@ As of: 2026-06-10T11:43:51Z
 ### T0006 Re-used Core Sources
 
 - Berkshire Shareholder Letters archive, Berkshire Owner's Manual, Buffett Partnership Letters, 1977 letter, 1989 letter, 1992 letter, 1996 letter, 2000 letter, 2007 letter, 2008 letter, 2011 letter, 2014 letter, 2016 letter, 2020 letter, 2024 letter, CNBC Warren Buffett Archive, 2025 annual meeting secondary transcript, and Cunningham's "Berkshire's Blemishes" were re-used directly in the key-writings file.
+
+## T0007 Additions - G-mental-models - 2026-06-10
+
+93. [Berkshire Hathaway Q1 2026 Form 10-Q](https://www.berkshirehathaway.com/qtrly/1stqtr26.pdf) - Primary source for post-transition cash, Treasury-bill holdings, repurchase floor, liquidity language, and OxyChem acquisition context used in the mental-models risk-limit discussion.
+94. [Graham and Doddsville PDF, The Superinvestors of Graham-and-Doddsville](https://www.grahamanddoddsville.net/files/buffett__superinvestors_of_graham_and_doddsville.pdf) - Accessible PDF version of Buffett's 1984 margin-of-safety and Graham-Dodd lineage essay, used for the mental model of price versus value.
+95. [DOJ PacifiCorp federal wildfire settlement, 2026](https://www.justice.gov/opa/pr/pacificorp-agrees-pay-575m-settle-claims-damage-caused-six-wildfires-california-and-oregon) - Primary legal source for the $575 million federal wildfire settlement used as current subsidiary-risk context.
+96. [PacifiCorp wildfire litigation current-status page](https://www.pacificorp.com/about/information-wildfire/information-wildfire-litigation.html) - Current company/legal source for April 2026 James class-action remand, appeals posture, settlements, and utility-risk context.
+
+### T0007 Re-used Core Sources
+
+- Re-used directly in the mental-models file: Berkshire Owner's Manual; Buffett Partnership Letters; 1989, 1996, 2001, 2007, 2011, 2014, 2016, 2024, and 2025 Berkshire letters/reports; 1998 University of Florida transcript; 2017 and 2020 annual meeting transcripts; DOJ/SEC Salomon; DOJ General Re; and the 1999 Fortune market-valuation essay.
