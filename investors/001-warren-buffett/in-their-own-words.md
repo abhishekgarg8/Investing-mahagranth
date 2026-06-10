@@ -34,7 +34,7 @@ This file favors primary Buffett venues: Berkshire shareholder letters, the Berk
 
 11. "It was far better to buy a wonderful business at a fair price." - Buffett credits Munger with pushing him beyond pure cigar-butt bargain hunting ([Berkshire 2012 Letter](https://www.berkshirehathaway.com/letters/2012ltr.pdf)).
 
-12. "Long-term competitive advantage in a stable industry is what we seek in a business." - The requirement is not just high returns, but high returns in conditions that can be underwritten ([Berkshire 2007 Letter](https://www.berkshirehathaway.com/letters/2007ltr.pdf)).
+12. "Monthly or yearly movements of stocks are often erratic." - Buffett's 2014 retrospective distinguishes market marks from intrinsic-value progress ([Berkshire 2014 Letter](https://www.berkshirehathaway.com/letters/2014ltr.pdf)).
 
 13. "Berkshire's two-pronged approach to capital allocation gives us a real edge." - Buffett links the public-stock portfolio and operating-company earnings into one permanent-capital machine ([Berkshire 2016 Letter](https://www.berkshirehathaway.com/letters/2016ltr.pdf)).
 
@@ -42,7 +42,7 @@ This file favors primary Buffett venues: Berkshire shareholder letters, the Berk
 
 14. "Be fearful when others are greedy, and be greedy when others are fearful." - In the 2006 letter this was tied to catastrophe insurance, then generalized to financial markets ([Berkshire 2006 Letter](https://www.berkshirehathaway.com/letters/2006ltr.pdf)).
 
-15. "The size of that circle is not very important; knowing its boundaries, however, is vital." - Circle of competence is a boundary discipline, not a boast about expertise ([Berkshire 1996 Letter](https://www.berkshirehathaway.com/letters/1996.html)).
+15. "Run your business as if it were the only asset your family will own over the next hundred years." - Buffett's instruction to operating managers captures Berkshire's preferred time horizon ([Berkshire 2004 Letter](https://www.berkshirehathaway.com/letters/2004ltr.pdf)).
 
 16. "What is smart at one price is dumb at another." - The 2011 letter applies this to both acquisitions and repurchases; price changes the decision ([Berkshire 2011 Letter](https://www.berkshirehathaway.com/letters/2011ltr.pdf)).
 
