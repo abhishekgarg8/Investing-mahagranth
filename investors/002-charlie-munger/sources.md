@@ -1,6 +1,6 @@
 # Charlie Munger - Source Map
 
-As of: 2026-06-10T14:33:05Z
+As of: 2026-06-10T15:40:19Z
 
 ## Ranked Sources
 
@@ -29,6 +29,10 @@ As of: 2026-06-10T14:33:05Z
 23. [Santa Barbara Independent, architect resignation over Munger Hall, 2021](https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm/) - Strong local source for the dorm controversy, McFadden resignation, design dimensions, and donor conditions.
 24. [Santa Barbara Independent, "The Death Knell for Dormzilla?", 2023](https://www.independent.com/2023/07/27/the-death-knell-for-dormzilla/) - Strong local source for UCSB shifting toward an alternative housing project at the same site.
 25. [Inside Philanthropy overview of Munger giving, 2023](https://www.insidephilanthropy.com/home/2023-11-30-a-look-back-at-the-giving-of-charlie-munger-warren-buffetts-right-hand-man) - Secondary overview of philanthropy scale and themes; useful but should be triangulated with institution-specific sources for dollar claims.
+26. [Farnam Street transcript, "A Lesson on Elementary Worldly Wisdom as It Relates to Investment Management & Business"](https://fs.blog/great-talks/a-lesson-on-worldly-wisdom/) - Accessible transcript of Munger's 1994 USC Business School talk; core source for latticework, circle of competence, pari-mutuel market analogy, selectivity, and high-quality-business doctrine.
+27. [Farnam Street transcript, "The Psychology of Human Misjudgment"](https://fs.blog/great-talks/psychology-human-misjudgment/) - Permissioned transcript of the expanded psychology talk; useful for incentives, denial, social proof, authority, and lollapalooza effects.
+28. [Berkshire Hathaway 2014 annual report](https://www.berkshirehathaway.com/letters/2014ltr.pdf) - Primary Berkshire anniversary source for the shift away from cigar-butt investing, Berkshire architecture, See's Candies, and Munger's own 50-year retrospective.
+29. [Kingswell transcript, "Charlie Munger's Closing Act" / CNBC 2023 interview](https://www.kingswell.io/p/charlie-mungers-closing-act-q-and) - Partial/free-access transcript of Munger's final CNBC interview; useful for late-life remarks on multidisciplinary learning, but avoid relying on paywalled portions without independent confirmation.
 
 ## T0009 Research Notes
 
@@ -36,3 +40,10 @@ As of: 2026-06-10T14:33:05Z
 - Investor classification: deceased; very transparent in speeches/meetings but less transparent in early partnership records; vehicles include public company roles and an old private partnership; controversies include Daily Journal concentration/Alibaba, Munger Hall, and blunt public opinions rather than major personal enforcement actions found in this run.
 - Source limitations: original Wheeler, Munger & Co. partnership statements were not located. The 19.8% CAGR is cited from Buffett's 1984 Columbia-published essay and should be reconstructed later from primary partnership materials if available.
 - Source limitations: Berkshire's official Wesco page was JavaScript-blocked in this environment; Worldly Partners provides a useful archive index to the letters, but later tasks should verify specific Blue Chip and Wesco letters one by one.
+
+## T0010 Research Notes
+
+- Guiding questions used: What is Munger's operating doctrine beyond slogans? What did he believe markets misprice? How did the process move from idea sourcing to sell discipline? How did his mental-model psychology translate into risk control? Where did Daily Journal, China/Alibaba, leverage, and Munger Hall create tension with the stated philosophy?
+- Investor classification: deceased; speech/transcript-rich; primary vehicles for this task were Berkshire Hathaway, Daily Journal, and Munger's public talks. Current legal/governance developments checked as of 2026-06-10 include post-Munger Daily Journal proxy materials; no new personal enforcement action against Munger was found in this run.
+- Source limitations: exact-word citations from annual-meeting transcripts should remain conservative because Steady Compounding/Kingswell are transcript sources, not official Daily Journal releases. The philosophy file therefore paraphrases most meeting content and cites filings where figures matter.
+- Source limitations: Stripe Press hosts an official-looking Poor Charlie's Almanack page, but it rendered without extractable lines in this environment; Farnam Street was used for accessible transcript text for the 1994 and 1995 talks.
