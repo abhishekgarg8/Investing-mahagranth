@@ -12,7 +12,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-10T10:34:43Z T0005 | 001-warren-buffett | E-own-words | investors/001-warren-buffett/in-their-own-words.md
 - [x] done:2026-06-10T11:43:51Z T0006 | 001-warren-buffett | F-key-writings | investors/001-warren-buffett/key-writings.md
 - [x] done:2026-06-10T12:45:16Z T0007 | 001-warren-buffett | G-mental-models | investors/001-warren-buffett/mental-models.md
-- [ ] T0008 | 001-warren-buffett | H-synthesis | investors/001-warren-buffett/synthesis.md
+- [~] claimed:2026-06-10T13:16:50Z T0008 | 001-warren-buffett | H-synthesis | investors/001-warren-buffett/synthesis.md
 - [ ] T0009 | 002-charlie-munger | A-profile | investors/002-charlie-munger/profile.md
 - [ ] T0010 | 002-charlie-munger | B-philosophy | investors/002-charlie-munger/investment-philosophy.md
 - [ ] T0011 | 002-charlie-munger | C-greatest-trades | investors/002-charlie-munger/greatest-trades.md
