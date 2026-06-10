@@ -10,7 +10,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-10T08:31:21Z T0003 | 001-warren-buffett | C-greatest-trades | investors/001-warren-buffett/greatest-trades.md
 - [x] done:2026-06-10T09:38:58Z T0004 | 001-warren-buffett | D-mistakes | investors/001-warren-buffett/mistakes-and-losses.md
 - [x] done:2026-06-10T10:34:43Z T0005 | 001-warren-buffett | E-own-words | investors/001-warren-buffett/in-their-own-words.md
-- [~] claimed:2026-06-10T11:22:52Z T0006 | 001-warren-buffett | F-key-writings | investors/001-warren-buffett/key-writings.md
+- [x] done:2026-06-10T11:43:51Z T0006 | 001-warren-buffett | F-key-writings | investors/001-warren-buffett/key-writings.md
 - [ ] T0007 | 001-warren-buffett | G-mental-models | investors/001-warren-buffett/mental-models.md
 - [ ] T0008 | 001-warren-buffett | H-synthesis | investors/001-warren-buffett/synthesis.md
 - [ ] T0009 | 002-charlie-munger | A-profile | investors/002-charlie-munger/profile.md
