@@ -1,6 +1,6 @@
 # Warren Buffett - Source Map
 
-As of: 2026-06-10T06:42:46Z
+As of: 2026-06-10T11:43:51Z
 
 ## Ranked Sources
 
@@ -113,3 +113,28 @@ As of: 2026-06-10T06:42:46Z
 ### T0005 Re-used Core Sources
 
 - Buffett Partnership Letters, Berkshire Owner's Manual, 1996 letter, 2007 letter, 2011 letter, 2013 letter, 2016 letter, 2020 meeting transcript, 2022 letter, 2017 meeting transcript, and the FCIC Buffett interview record were re-used directly in the own-words file.
+
+## T0006 Additions - F-key-writings - 2026-06-10
+
+75. [Berkshire Hathaway November 10, 2025 Buffett Thanksgiving/shareholder letter](https://www.berkshirehathaway.com/news/nov1025.pdf) - Primary source for Buffett's statement that he will no longer write Berkshire's annual report and will continue with annual Thanksgiving messages.
+76. [Berkshire Hathaway 2025 Annual Report](https://berkshirehathaway.com/2025ar/2025ar.pdf) - Primary source for Greg Abel's first annual letter as CEO and for separating post-2024 Buffett authorship from Abel-authored Berkshire CEO letters.
+77. [Columbia Business School, "The Superinvestors of Graham-and-Doddsville"](https://business.columbia.edu/insights/chazen-global-insights/superinvestors-graham-and-doddsville) - Primary/publication source for Buffett's 1984 defense of value investing and Graham-Dodd lineage.
+78. [Fortune, "Buffett: How Inflation Swindles the Equity Investor"](https://fortune.com/article/buffett-how-inflation-swindles-the-equity-investor-fortune-classics-1977/) - Current article page for Buffett's 1977 inflation essay.
+79. [EconBiz record, "How Inflation Swindles the Equity Investor"](https://www.econbiz.de/Record/how-inflation-swindles-the-equity-investor-buffett-warren/10001965557) - Bibliographic cross-check for the inflation essay and its reprint context.
+80. [Warren Buffett, Fortune, "Mr. Buffett on the Stock Market" (Berkshire-hosted PDF)](https://www.berkshirehathaway.com/1999ar/FortuneMagazine.pdf) - Primary/official-hosted market-valuation essay from 1999.
+81. [Lawrence A. Cunningham and Warren E. Buffett, *The Essays of Warren Buffett*, Fifth Edition](https://cap-press.com/books/isbn/9781531017507/The-Essays-of-Warren-Buffett-Fifth-Edition?srsltid=AfmBOopwSUPye6GlppBQC23GQZP0C59dyjg1-C4uf1DsQxMl-ag6dLqk) - Best edited organization of Buffett's shareholder-letter writing; cite originals for precise claims.
+82. [Alice Schroeder, *The Snowball*](https://www.penguinrandomhouse.com/books/162310/the-snowball-by-alice-schroeder/) - Publisher page for the major access biography of Buffett.
+83. [Roger Lowenstein, *Buffett: The Making of an American Capitalist*](https://www.penguinrandomhouse.com/books/103994/buffett-by-roger-lowenstein/) - Publisher page for the compact biography and early-Berkshire context source.
+84. [Jeremy C. Miller, *Warren Buffett's Ground Rules*](https://www.harpercollins.com/products/warren-buffetts-ground-rules-jeremy-c-miller) - Publisher page for the best partnership-letter companion.
+85. [Carol J. Loomis, *Tap Dancing to Work*](https://www.penguinrandomhouse.com/books/312515/tap-dancing-to-work-by-collected-and-expanded-by-carol-j-loomis/) - Publisher page for Loomis's long-view Fortune/Buffett collection.
+86. [Robert G. Hagstrom, *The Warren Buffett Way*, 30th Anniversary Edition (Wiley)](https://www.wiley.com/en-us/The%2BWarren%2BBuffett%2BWay%2C%2B30th%2BAnniversary%2BEdition-p-9781394377992) - Publisher page for the best-known popular process distillation; use after primary letters.
+87. [Google Books bibliographic page, *The Warren Buffett Way*](https://books.google.com/books/about/The_Warren_Buffett_Way.html?id=wR6g0QEACAAJ) - Bibliographic fallback when the Wiley page is inaccessible.
+88. [SSRN PDF, *A Return to Graham-and-Doddsville*](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3838414_code2925644.pdf?abstractid=3133081&mirid=1) - Secondary empirical update for Buffett's 1984 "Superinvestors" claim set.
+89. [Gale record, "Buy American. I Am."](https://go.gale.com/ps/i.do?id=GALE%7CA187022093&it=r&p=AONE&sid=sitemap&sw=w&v=2.1) - Bibliographic record for Buffett's October 2008 New York Times op-ed.
+90. [SEC filing referencing Buffett's "Buy American. I Am." op-ed](https://www.sec.gov/Archives/edgar/data/934612/000095015709000881/form425.htm) - Regulatory-file cross-check for the 2008 op-ed title and crisis-era timing.
+91. [USC Gould PDF citing "Stop Coddling the Super-Rich"](https://gould.usc.edu/assets/docs/directory/1000252.pdf) - Citation source for Buffett's 2011 New York Times tax-policy op-ed.
+92. [SSRN, "Are We Actually 'Coddling the Super-Rich'?"](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2621580_code2415348.pdf?abstractid=2621580&mirid=1) - Secondary policy-law discussion that contextualizes Buffett's 2011 tax op-ed.
+
+### T0006 Re-used Core Sources
+
+- Berkshire Shareholder Letters archive, Berkshire Owner's Manual, Buffett Partnership Letters, 1977 letter, 1989 letter, 1992 letter, 1996 letter, 2000 letter, 2007 letter, 2008 letter, 2011 letter, 2014 letter, 2016 letter, 2020 letter, 2024 letter, CNBC Warren Buffett Archive, 2025 annual meeting secondary transcript, and Cunningham's "Berkshire's Blemishes" were re-used directly in the key-writings file.
