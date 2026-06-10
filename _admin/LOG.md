@@ -37,3 +37,8 @@
 - Output: investors/001-warren-buffett/mental-models.md (~2,379 words, 21 sources)
 - Notes: Reconstructed Buffett's operating checklist from primary letters, partnership materials, transcripts, filings, and legal/regulatory sources. Emphasized owner mindset, circle of competence, moat/float/cash/reputation risk limits, sell discipline, failure modes, and transferability limits around Berkshire-specific float, permanent capital, reputation, tax, and deal-flow advantages.
 - Backlog added: None
+
+## 2026-06-10T13:27:16Z — T0008 — 001-warren-buffett — H-synthesis — DONE
+- Output: investors/001-warren-buffett/synthesis.md (~1,600 words, 21 sources)
+- Notes: Completed Buffett synthesis, ranked transferable lessons, regime dependence, luck-vs-skill framing, unresolved questions, and first INDEX.md row. No completed peer folders exist yet, so closest/opposite comparisons are flagged as provisional.
+- Backlog added: None

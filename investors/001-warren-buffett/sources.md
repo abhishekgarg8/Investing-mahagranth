@@ -1,6 +1,6 @@
 # Warren Buffett - Source Map
 
-As of: 2026-06-10T12:45:16Z
+As of: 2026-06-10T13:27:16Z
 
 ## Ranked Sources
 
@@ -149,3 +149,20 @@ As of: 2026-06-10T12:45:16Z
 ### T0007 Re-used Core Sources
 
 - Re-used directly in the mental-models file: Berkshire Owner's Manual; Buffett Partnership Letters; 1989, 1996, 2001, 2007, 2011, 2014, 2016, 2024, and 2025 Berkshire letters/reports; 1998 University of Florida transcript; 2017 and 2020 annual meeting transcripts; DOJ/SEC Salomon; DOJ General Re; and the 1999 Fortune market-valuation essay.
+
+## T0008 Additions - H-synthesis - 2026-06-10
+
+97. [Berkshire Hathaway 2025 Annual Report](https://www.berkshirehathaway.com/2025ar/2025ar.pdf) - Re-opened for synthesis to verify the 1965-2025 performance table, Abel succession disclosure, 2025 impairments, and scale/cash context.
+98. [Berkshire Hathaway Q1 2026 Form 10-Q](https://www.berkshirehathaway.com/qtrly/1stqtr26.pdf) - Re-opened for current top-holdings concentration, American Express ownership, OxyChem/Occidental context, and post-transition cash/portfolio structure.
+99. [PacifiCorp wildfire litigation current-status page](https://www.pacificorp.com/about/information-wildfire/information-wildfire-litigation.html) - Re-opened for current wildfire litigation and federal settlement status used in the synthesis's institutional-risk section.
+100. [DOJ General Re/AIG resolution press release, archived URL](https://www.justice.gov/archives/opa/pr/general-reinsurance-corporation-enters-agreement-resolving-its-role-fraudulent-reinsurance) - Re-opened to verify subsidiary misconduct, payment amounts, and remediation language for the reputation-risk lesson.
+101. [Berkshire Hathaway November 10, 2025 Buffett Thanksgiving/shareholder letter](https://www.berkshirehathaway.com/news/nov1025.pdf) - Re-opened for Buffett's post-CEO communication boundary and Abel endorsement.
+102. [Berkshire Hathaway 2007 Chairman's Letter](https://www.berkshirehathaway.com/letters/2007ltr.pdf) - Re-opened to verify See's purchase economics, capital intensity, and cumulative cash generation.
+103. [Berkshire Hathaway Owner's Manual](https://www.berkshirehathaway.com/ownman.pdf) - Core synthesis source for partnership attitude, intrinsic-value framing, controlled-business sell discipline, and owner-orientation.
+104. [Berkshire Hathaway 1996 Chairman's Letter](https://www.berkshirehathaway.com/letters/1996.html) - Core synthesis source for circle of competence, ten-year ownership framing, and index-fund caution.
+105. [Columbia Business School, "The Superinvestors of Graham-and-Doddsville"](https://business.columbia.edu/insights/chazen-global-insights/superinvestors-graham-and-doddsville) - Core synthesis source for Buffett's Graham-Dodd lineage and value-investing defense.
+106. [Vanity Fair, "Mr. Warren's Confession," February 2011](https://archive.vanityfair.com/article/2011/2/mr-warrens-confession) - Re-used critical source for crisis-era conflicts and reputational-politics caveats.
+
+### T0008 Re-used Core Sources
+
+- Re-used directly in the synthesis file: Buffett Partnership Letters; Berkshire 1989, 2014, 2015, 2018, 2022, and 2025 letters/reports; Berkshire Owner's Manual; Berkshire Q1 2026 Form 10-Q; DOJ/SEC Salomon; SEC General Re; DOJ General Re; PacifiCorp wildfire litigation page; Goldman Sachs 2008 press release; Bank of America 2011 Berkshire investment press release; 2017 Berkshire meeting transcript; and prior completed A-G Buffett files in this folder.
