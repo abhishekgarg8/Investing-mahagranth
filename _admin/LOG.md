@@ -68,3 +68,9 @@
 - Output: investors/002-charlie-munger/mistakes-and-losses.md (~3,090 words, 20 sources) committed; sources.md appended.
 - Notes: Output and source map were completed, but TODO closeout could not be pushed because the connector requires full-file replacement and the queue content exceeded this channel's single-call size; direct GitHub HTTPS and SSH were blocked from the container. Left TODO [~] for stale retry; future run should verify the output, mark T0012 done, and refresh STATUS.
 - Backlog added: None
+
+
+## 2026-06-11T04:31:09Z — T0013 — 002-charlie-munger — E-own-words — DONE
+- Output: investors/002-charlie-munger/in-their-own-words.md (~1,639 words, 17 sources)
+- Notes: Completed Munger quote file with 25 short sourced quotes organized by theme plus an annotated primary-materials index. Avoided quote aggregators; Daily Journal/CNBC exact wording remains transcript-dependent where noted.
+- Backlog added: None
