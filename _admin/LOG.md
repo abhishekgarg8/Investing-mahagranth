@@ -100,3 +100,8 @@
 - Output: investors/003-benjamin-graham/profile.md (~2,265 words, 18 sources)
 - Notes: Created Graham profile with life/career timeline, vehicle structure, 1945-1956 Graham-Newman performance caveats, GEICO outlier/regulatory-distribution context, Northern Pipeline activism context, current deceased/legal-status check, and open questions for primary-record reconstruction.
 - Backlog added: None
+
+## 2026-06-11T11:48:36Z — T0018 — 003-benjamin-graham — B-philosophy — DONE
+- Output: investors/003-benjamin-graham/investment-philosophy.md (~2,610 words, 16 sources)
+- Notes: Completed Graham philosophy around margin of safety, price-vs-value, net-current-asset and low-P/E group methods, diversification, sell discipline, and late-career skepticism toward forecasting. Tensions preserved around GEICO, formula-vs-judgment, scale, and era-specific net-net opportunity set.
+- Backlog added: None
