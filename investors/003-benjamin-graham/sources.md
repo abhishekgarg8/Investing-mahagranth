@@ -354,3 +354,54 @@ Created: 2026-06-11 for T0017 A-profile.
 - Search coverage exceeded 15 query families: *Security Analysis*, *The Intelligent Investor*, *The Interpretation of Financial Statements*, *Common Sense Investing*, *Storage and Stability*, *World Commodities and World Currency*, memoirs, FAJ interview, *Medical Economics*, 1963 speech, 1960 CMR warning, 1974 common-stocks article, 1962 accumulation article, Ivey bibliography, CFA biography, Zweig anthology, Carlen biography, Buffett's Graham-and-Doddsville speech, GEICO luck criticism, legal/SEC searches, and quote-attribution checks.
 - Mandatory criticism/legal searches run: "Benjamin Graham criticism GEICO luck skill Jason Zweig," "Benjamin Graham lawsuit SEC Graham-Newman enforcement," "Benjamin Graham plagiarism controversy legal SEC," and "Benjamin Graham quote attribution criticism voting machine weighing machine." No current personal legal development was found; Graham is deceased. The recurring legal/regulatory issue remains GEICO / Investment Company Act context already surfaced in earlier files.
 - T0022 self-QA: reopened support for the 1976 FAJ interview, 1976 *Medical Economics* scan, 1963 Zweig transcript/PDF page, Ivey bibliography, and CFA Foundation publication page. Output includes required works-by-Graham and works-about-Graham sections, with long quotations avoided.
+
+## Added 2026-06-11 for T0023 G-mental-models
+
+103. [Tier 1] Benjamin Graham, "A Conversation with Benjamin Graham," *Financial Analysts Journal*, 1976. https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Benjamin%20Graham/A%20Conversation%20with%20Ben%20Graham%20-%20Financial%20Analysts%20Journal%20-%201976.pdf  
+    Reused for margin of safety, investor/speculator distinction, selling policy, group-expectancy logic, net-current-asset investing, and late skepticism toward elaborate issue selection.
+
+104. [Tier 1] Benjamin Graham interview, "The Simplest Way to Select Bargain Stocks," *Medical Economics*, 1976. https://alphaarchitect.com/wp-content/uploads/2011/04/Simple-and-Easy-Approach-Medical-Economics-Graham-1976.pdf  
+    Reused for the operational late Graham checklist: P/E tied to AAA bond yields, equity/assets test, 30-stock minimum, 50% profit objective, two-to-three-year sell rule, and drawdown tolerance.
+
+105. [Tier 1] Benjamin Graham, "The Future of Common Stocks," *Financial Analysts Journal*, 1974 mirror PDF. https://www.safalniveshak.com/wp-content/uploads/2012/07/The-Future-of-Common-Stocks-Benjamin-Graham.pdf  
+    Reused for market-level valuation anchors, inflation context, institutional-behavior critique, and the idea that equity policy must respect bond yields and market level.
+
+106. [Tier 1/Tier 2] Irving Kahn and Robert D. Milne, CFA, *Benjamin Graham: The Father of Financial Analysis*, CFA Research Foundation / Ivey PDF, 1977. https://www.ivey.uwo.ca/media/3065497/ben-graham-father-financial-analysis.pdf  
+    Reused for Graham-Newman history, GEICO data, Joint Account leverage and drawdowns, net-current-asset evidence, and the scale of Graham's exceptions.
+
+107. [Tier 1] Jason Zweig archive, "A Rediscovered Masterpiece by Benjamin Graham" and 1963 "Securities in an Insecure World" speech. https://jasonzweig.com/a-rediscovered-masterpiece-by-benjamin-graham/  
+    Reused for formula plans, dollar averaging, market-level policy, and the behavioral role of rules.
+
+108. [Tier 2] Jason Zweig, "Lessons and Ideas from Benjamin Graham," 2017. https://jasonzweig.com/lessons-and-ideas-from-benjamin-graham-2/  
+    Used as secondary interpretation for Graham's anti-mischief rules, stock-versus-business distinction, and the behavioral need to separate investment from speculation.
+
+109. [Tier 1] Benjamin Graham, *Common Sense Investing: The Papers of Benjamin Graham*, compilation PDF. https://sorfis.com/wp-content/uploads/2021/09/Benjamin-Graham-Common-Sense-Investing-papers-of-Ben-Graham.pdf  
+    Reused for Graham's own framing of speculation, working-capital bargains, special situations, and the danger of turning sound ideas into price-insensitive narratives.
+
+110. [Tier 1] GovInfo, *Investment Company Act of 1940*, current compilation as amended through P.L. 119-27, enacted July 18, 2025. https://www.govinfo.gov/content/pkg/COMPS-1879/pdf/COMPS-1879.pdf  
+    Reused for the insurance-company ownership constraint relevant to GEICO and the limits of treating that outcome as a repeatable public-market template.
+
+111. [Tier 1] Berkshire Hathaway, 2014 shareholder letter. https://www.berkshirehathaway.com/letters/2014ltr.pdf  
+    Reused for Buffett's primary explanation of why Graham-style cigar-butt investing worked with small sums but did not scale well into Berkshire's later structure.
+
+112. [Tier 1] Columbia Business School Heilbrunn Center, "History of Value Investing." https://business.columbia.edu/heilbrunn/about/valueinvestinghistory  
+    Reused for the Graham-Dodd value-investing lineage and Columbia's framing of intrinsic value, margin of safety, Mr. Market, and diversification.
+
+113. [Tier 2] The New Yorker, "How Should We Read Investor Letters?" 2016. https://www.newyorker.com/magazine/2016/09/05/jeff-gramms-dear-chairman-boardroom-battles-and-the-rise-of-shareholder-activism  
+    Reused for Northern Pipeline and the operational lesson that hidden value often needs a governance or realization path.
+
+114. [Tier 2] Business Insider / Jeff Gramm excerpt, "Benjamin Graham Was the First Shareholder Activist," 2016. https://www.businessinsider.com/benjamin-graham-was-the-first-shareholder-activist-2016-6  
+    Used as corroborating secondary context for Northern Pipeline activism and shareholder-management conflict.
+
+115. [Tier 2] Mohanty and Oxman, "Does Ben Graham's net current asset value investing continue to generate excess returns?", *Review of Financial Economics*, 2026 abstract via RePEc. https://ideas.repec.org/a/wly/revfec/v44y2026i1ne70034.html  
+    Current academic update used for transferability: NCAV alpha remains significant over 1969-2019 but profitability declines in 2004-2019.
+
+116. [Tier 2] Google Books, *Security Analysis: The Classic 1934 Edition*. https://books.google.com/books/about/Security_Analysis_The_Classic_1934_Editi.html?id=A_DSAAAAMAAJ  
+    Reused as bibliographic support for the Graham-Dodd security-analysis framework and the decision checklist's security-claim orientation.
+
+## T0023 Search / Verification Notes
+
+- Stale retry context: the mental-models output had already been committed before this run, but TODO, LOG, STATUS, and this source-map append were incomplete. This run verified the output and completed the closeout.
+- Guiding questions in the output: What are Graham's operating rules rather than slogans? How do the 1976 interviews modify early *Security Analysis*? Which rules are portfolio-level rather than stock-level? How did losses change risk controls? Which parts of GEICO and Northern Pipeline are exceptions rather than templates? What can a small investor still copy? Which modern evidence changes NCAV transferability?
+- Verification pass: reopened the 1976 *Financial Analysts Journal* interview for margin of safety, selling policy, group results, and NCAV; reopened *Medical Economics* for the P/E, equity/assets, 30-stock, 50% objective, two-to-three-year sell rule, and downturn-tolerance claims; reopened the CFA/Ivey biography for Joint Account leverage and drawdowns; reopened the 2026 RePEc abstract for 1969-2019 NCAV evidence and 2004-2019 profitability decline.
+- Mandatory criticism/legal coverage was already recorded in the output research trail: searches for Graham lawsuits, SEC/Graham-Newman, GEICO Investment Company Act, and criticism/skill-versus-luck found no current personal legal development involving Graham; the recurring legal/regulatory caveat remains GEICO / Investment Company Act treatment.
