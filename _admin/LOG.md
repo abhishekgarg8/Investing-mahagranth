@@ -120,3 +120,8 @@
 - Output: investors/003-benjamin-graham/in-their-own-words.md (~2,750 words, 18 sources)
 - Notes: Completed Graham quote file with 25 short source-visible quotes, annotated primary-materials index, and attribution watchlist. Famous voting/weighing-machine wording was flagged rather than used because the opened sources showed weak or derivative attribution.
 - Backlog added: None
+
+## 2026-06-11T16:34:39Z — T0022 — 003-benjamin-graham — F-key-writings — DONE
+- Output: investors/003-benjamin-graham/key-writings.md (~3,000 words, 25 sources)
+- Notes: Completed Graham key-writings guide with ranked primary reading order, late-career article/speech coverage, and ranked secondary works. Caveats preserved around edition mirrors, posthumous memoir access, GEICO skill-vs-luck criticism, and voting/weighing-machine attribution.
+- Backlog added: None
