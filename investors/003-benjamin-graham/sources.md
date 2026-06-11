@@ -58,9 +58,39 @@ Created: 2026-06-11 for T0017 A-profile.
 18. [Tier 3] Beyond Ben Graham, "About Ben Graham." https://beyondbengraham.com/about-ben-graham/  
     Secondary biographical source, especially for later UCLA teaching references. Use as a lead for primary confirmation.
 
+## Added 2026-06-11 for T0018 B-philosophy
+
+19. [Tier 1] Benjamin Graham, "A Conversation with Benjamin Graham," *Financial Analysts Journal*, 1976. https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Benjamin%20Graham/A%20Conversation%20with%20Ben%20Graham%20-%20Financial%20Analysts%20Journal%20-%201976.pdf  
+    Core primary source for late-career philosophy: skepticism toward professional forecasting, simplified group selection, net-current-asset method, and low-P/E group method.
+
+20. [Tier 1] Benjamin Graham, *The Intelligent Investor*, fourth revised edition text, 1973; mirror PDF. https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The%20Intelligent%20Investor%20-%20BENJAMIN%20GRAHAM.pdf  
+    Used for margin of safety, investment-versus-speculation, defensive/enterprising distinction, diversification logic, and temperament. Mirror source; future quote work should verify against a print edition.
+
+21. [Tier 1] Benjamin Graham, "The Simplest Way to Select Bargain Stocks," *Medical Economics*, 1976; Alpha Architect scan. https://alphaarchitect.com/wp-content/uploads/2011/04/Simple-and-Easy-Approach-Medical-Economics-Graham-1976.pdf  
+    Primary late-career formula article: P/E threshold, balance-sheet test, 30-stock diversification, 50% profit objective, two-to-three-year sell rule, and readiness for drawdowns.
+
+22. [Tier 1] Benjamin Graham, *Common Sense Investing: The Papers of Benjamin Graham*, compiled PDF. https://sorfis.com/wp-content/uploads/2021/09/Benjamin-Graham-Common-Sense-Investing-papers-of-Ben-Graham.pdf  
+    Used for "The New Speculation in Common Stocks" and special-situation/liquidation discussion. Check individual article provenance for future quote-heavy work.
+
+23. [Tier 1] Jason Zweig archive, "A Rediscovered Masterpiece by Benjamin Graham" and 1963 "Securities in an Insecure World" speech. https://jasonzweig.com/a-rediscovered-masterpiece-by-benjamin-graham/  
+    Important primary/archival speech source for market-level judgment, asset allocation, and Graham's late practical framing.
+
+24. [Tier 2] CFA Institute, "A Proposed Revision of Benjamin Graham's 1974 Valuation Formula," *Financial Analysts Journal*, 1976. https://rpc.cfainstitute.org/research/financial-analysts-journal/1976/a-proposed-revision-of-benjamin-grahams-1974-valuation-formula  
+    Used to verify Graham's 1974 formula context and contemporary debate around earnings, growth, and interest-rate inputs.
+
+25. [Tier 1] Benjamin Graham, "Stock Market Warning: Danger Ahead!," *California Management Review*, 1960. https://cmr.berkeley.edu/1960/05/2-3-stock-market-warning-danger-ahead/  
+    Used for Graham's post-1950s bull-market warning and his insistence on distinguishing investment from speculation.
+
+26. [Tier 1] Benjamin Graham, "Some Investment Aspects of Accumulation Through Equities," *Journal of Finance*, 1962; AFA issue listing. https://afajof.org/issue/volume-17-issue-2/  
+    Bibliographic verification for Graham's systematic-equity-accumulation work. Full text is access-restricted in the sources found this run.
+
+27. [Tier 2] Jason Zweig, "Lessons and Ideas from Benjamin Graham," 2017. https://jasonzweig.com/lessons-and-ideas-from-benjamin-graham-2/  
+    Strong interpretive source on Graham's distinctions between stocks/companies and price/value, plus the "mad money" concept. Use as secondary framing.
+
 ## Search / Verification Notes
 
 - Living status: verified as deceased through CFA and Columbia sources. No current living-person legal update is applicable.
 - Legal/regulatory search: targeted searches for "Benjamin Graham lawsuit," "Graham-Newman SEC enforcement," "GEICO Investment Company Act," and related terms found no current personal legal development. The main substantiated legal/regulatory issue is the Investment Company Act restriction on Graham-Newman's GEICO ownership, documented in the CFA volume.
 - Performance evidence: strongest source is the CFA Research Foundation volume. Future tasks should still obtain and reconcile original Graham-Newman annual reports from Ivey/Columbia to bridge gross, net, GEICO-included, and GEICO-excluded returns.
 - Quote handling: no long Graham quotations were used in the profile. Future E-own-words work should quote directly from *The Intelligent Investor*, *Security Analysis*, and the 1976 CFA interview, keeping quotations short and edition-specific.
+- T0018 self-QA: reopened the 1976 *Financial Analysts Journal* interview, *The Intelligent Investor* chapter 20, the 1976 *Medical Economics* scan, and Berkeley's *Stock Market Warning* page. All supported the claims they were used for.
