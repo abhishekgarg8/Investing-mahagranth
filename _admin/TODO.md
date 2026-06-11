@@ -15,7 +15,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-10T13:27:16Z T0008 | 001-warren-buffett | H-synthesis | investors/001-warren-buffett/synthesis.md
 - [x] done:2026-06-10T14:33:05Z T0009 | 002-charlie-munger | A-profile | investors/002-charlie-munger/profile.md
 - [x] done:2026-06-11T02:03:49Z T0010 | 002-charlie-munger | B-philosophy | investors/002-charlie-munger/investment-philosophy.md
-- [~] claimed:2026-06-11T02:16:14Z T0011 | 002-charlie-munger | C-greatest-trades | investors/002-charlie-munger/greatest-trades.md
+- [x] done:2026-06-11T02:30:43Z T0011 | 002-charlie-munger | C-greatest-trades | investors/002-charlie-munger/greatest-trades.md
 - [ ] T0012 | 002-charlie-munger | D-mistakes | investors/002-charlie-munger/mistakes-and-losses.md
 - [ ] T0013 | 002-charlie-munger | E-own-words | investors/002-charlie-munger/in-their-own-words.md
 - [ ] T0014 | 002-charlie-munger | F-key-writings | investors/002-charlie-munger/key-writings.md
@@ -819,4 +819,5 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [ ] T0812 | canon | Z-retrospective | synthesis/retrospective.md
 
 ## BACKLOG
+
 
