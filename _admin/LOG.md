@@ -110,3 +110,8 @@
 - Output: investors/003-benjamin-graham/greatest-trades.md (~3,104 words, 17 sources)
 - Notes: Completed Graham greatest-trades file across GEICO, Northern Pipeline, NCAV baskets, Guggenheim Exploration, Du Pont/GM, and National Transit. Caveats preserved for single-source GEICO/Northern/National Transit figures and missing primary filings.
 - Backlog added: None
+
+## 2026-06-11T13:32:27Z — T0020 — 003-benjamin-graham — D-mistakes — DONE
+- Output: investors/003-benjamin-graham/mistakes-and-losses.md (~2,229 words, 14 sources)
+- Notes: Completed Graham mistakes/losses with emphasis on the 1929-1932 Joint Account near-death, hedge drift, leverage, ignored John Dix warning, Shattuck short loss, GEICO rule-breaking luck, Northern Pipeline process friction, and late model decay. Current legal check found no personal legal development; GEICO Investment Company Act constraint remains the key regulatory caveat.
+- Backlog added: None
