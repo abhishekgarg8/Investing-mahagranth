@@ -207,3 +207,67 @@ Created: 2026-06-11 for T0017 A-profile.
 - Saturation searches run near the end: "Benjamin Graham mistakes losses greatest mistake career 1930 John Dix," "Benjamin Graham Joint Account 44 percent margin debt 1930," and "Benjamin Graham did Graham-Newman almost fail 1930 father-in-law cash infusion." These reinforced the Depression drawdown thesis and did not change the core findings.
 - T0020 self-QA completed: reopened support for Depression loss data in CFA/American Heritage, GEICO statutory support in GovInfo, and late model adaptation in the 1976 FAJ interview. Word count and required sections verified locally.
 - Remaining primary-source gaps: original Joint Account ledgers and partner communications; primary SEC correspondence or order for the GEICO distribution; original Forbes 1932 articles; original Shattuck trade records.
+
+## Added 2026-06-11 for T0021 E-own-words
+
+60. [Tier 1] Benjamin Graham, "A Conversation with Benjamin Graham," *Financial Analysts Journal*, 1976. https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Benjamin%20Graham/A%20Conversation%20with%20Ben%20Graham%20-%20Financial%20Analysts%20Journal%20-%201976.pdf  
+    Reused and quote-checked for late-career comments on common stocks, Wall Street, forecasting limits, group results, net-current-asset investing, and true investors exploiting public optimism/apprehension.
+
+61. [Tier 1] Benjamin Graham, *The Intelligent Investor*, fourth revised edition text, 1973; mirror PDF. https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The%20Intelligent%20Investor%20-%20BENJAMIN%20GRAHAM.pdf  
+    Reused for short, source-visible excerpts on investment definition, investor psychology, businesslike investing, margin-of-safety context, and edition-specific caveats around later commentary.
+
+62. [Tier 1] Benjamin Graham, *Common Sense Investing: The Papers of Benjamin Graham*, compiled PDF. https://sorfis.com/wp-content/uploads/2021/09/Benjamin-Graham-Common-Sense-Investing-papers-of-Ben-Graham.pdf  
+    Reused as a finding aid and quote source for short excerpts from Graham essays on investment versus speculation, book value, marketability, and stock-market-minded behavior. Treat as a compilation; verify important lines to original articles where possible.
+
+63. [Tier 1] Benjamin Graham, *The Interpretation of Financial Statements*, revised text PDF. https://www.soilandhealth.org/wp-content/uploads/0302hsted/030215graham/graham.pdf  
+    Added for statement-analysis excerpts and annotated index coverage; opened scan gives usable text for the preface and early statement-reading framework.
+
+64. [Tier 1] Benjamin Graham, "Securities in an Insecure World," 1963 PDF hosted by Jason Zweig. https://jasonzweig.com/wp-content/uploads/2015/03/BG-speech-SF-1963.pdf  
+    Added for 1963 speech coverage: inflation, market fluctuations, investor/speculator distinction, formula plans, dollar averaging, and behavioral memory.
+
+65. [Tier 1/Tier 2] Jason Zweig, "A Rediscovered Masterpiece by Benjamin Graham," transcript page for the 1963 speech. https://jasonzweig.com/a-rediscovered-masterpiece-by-benjamin-graham/  
+    Used as an accessible transcript companion to the hosted speech PDF. Strong for locating passages, but future quotation should prefer the PDF or original transcript if available.
+
+66. [Tier 1] Benjamin Graham, "Stock Market Warning: Danger Ahead!," *California Management Review*, 1960. https://cmr.berkeley.edu/1960/05/2-3-stock-market-warning-danger-ahead/  
+    Reused for short excerpts and article metadata around speculative public behavior in the 1950s bull market.
+
+67. [Tier 1] Benjamin Graham, "The Future of Common Stocks," *Financial Analysts Journal*, September/October 1974; mirror PDF. https://www.safalniveshak.com/wp-content/uploads/2012/07/The-Future-of-Common-Stocks-Benjamin-Graham.pdf  
+    Added for late Graham views on equity valuation, inflation, institutional behavior, index-like portfolios, and minimum stock/bond components.
+
+68. [Tier 1] Benjamin Graham interview, "The Simplest Way to Select Bargain Stocks," *Medical Economics*, 1976. https://alphaarchitect.com/wp-content/uploads/2011/04/Simple-and-Easy-Approach-Medical-Economics-Graham-1976.pdf  
+    Reused for late formula-method quotes: simple criteria, 30-stock portfolio, profit objective, two-to-three-year sell discipline, and statistical probabilities.
+
+69. [Tier 1] CFA Institute Research Foundation, Irving Kahn and Robert D. Milne, CFA, *Benjamin Graham, The Father of Financial Analysis*, publication page, 1977. https://rpc.cfainstitute.org/research/foundation/1977/benjamin-graham-the-father-of-financial-analysis-full-pdf  
+    Added for current death/status verification and official publication metadata.
+
+70. [Tier 1] Irving Kahn and Robert D. Milne, CFA, *Benjamin Graham: The Father of Financial Analysis*, PDF mirror, 1977. https://www.ivey.uwo.ca/media/3065497/ben-graham-father-financial-analysis.pdf  
+    Reused for selected quotations, bibliography, Graham-Newman/GEICO performance table, and late interview context.
+
+71. [Tier 1] Ivey Business School, Ben Graham Collection. https://www.ivey.uwo.ca/bengrahaminvesting/resources/ben-graham-collection/  
+    Reused as the primary-material map for books, speeches, articles, and archive leads.
+
+72. [Tier 2] CFA Institute Research and Policy Center, "A Proposed Revision of Benjamin Graham's 1974 Valuation Formula," 1976. https://rpc.cfainstitute.org/research/financial-analysts-journal/1976/a-proposed-revision-of-benjamin-grahams-1974-valuation-formula  
+    Used for annotated-index context on the 1974 formula debate; not used as a Graham quote source.
+
+73. [Tier 1] Graham-Newman Corporation 1948 annual report scan, Columbia Business School. https://business.columbia.edu/sites/default/files-efs/imce-uploads/1948.PDF  
+    Reused as a primary corporate document in the annotated index; no exact quotes due text-extraction limits.
+
+74. [Tier 1] Graham-Newman Corporation 1953 annual report scan, Columbia Business School. https://business.columbia.edu/sites/default/files-efs/imce-uploads/1953.PDF  
+    Reused as primary corporate material in the annotated index; no exact quotes due text-extraction limits.
+
+75. [Tier 1] Graham-Newman Corporation 1958 annual report scan, Columbia Business School. https://business.columbia.edu/sites/default/files-efs/imce-uploads/1958.PDF  
+    Added for dissolution/winding-up context in the annotated index.
+
+76. [Tier 3] Goodreads quote page for the commonly attributed voting/weighing-machine line. https://www.goodreads.com/quotes/831517-in-the-short-run-the-market-is-a-voting-machine  
+    Used only as a negative attribution check; community-sourced quote pages were not treated as authority.
+
+77. [Tier 2] Rowan Simpson, sourcing note on voting-machine/weighing-machine wording. https://rowansimpson.com/quotes/ben-graham/  
+    Used as an attribution-warning lead noting that the popular modern wording may be a Buffett refinement of Graham-and-Dodd language.
+
+## T0021 Search / Verification Notes
+
+- Guiding questions: Which Graham quotes are source-visible rather than quote-aggregator folklore? How do his own words distinguish investment, speculation, value, price, psychology, and group expectancy? Which late-career materials show evolution away from elaborate issue-by-issue analysis? Which primary materials should guide T0022? Which famous quotes require rejection or watchlist treatment?
+- Mandatory criticism/legal searches run: "Benjamin Graham lawsuit SEC Graham-Newman enforcement," "Benjamin Graham SEC enforcement Graham-Newman Investment Company Act GEICO 1948," "Benjamin Graham criticism GEICO luck skill quote," and "Benjamin Graham quote misattributed voting machine weighing machine source." No current personal legal development was found; Graham is deceased. Main legal/regulatory context remains the GEICO / Investment Company Act issue already noted in earlier Graham files.
+- Quote discipline: used 25 short excerpts, each tied to an opened source and year; avoided quote aggregators as authorities; flagged the voting/weighing-machine aphorism rather than using it because opened sources showed weak or derivative attribution.
+- T0021 self-QA: reopened and checked the 1976 FAJ conversation, 1976 Medical Economics interview, 1963 speech transcript/PDF, 1974 FAJ common-stocks article, CMR 1960 article page, and CFA/Ivey biography/bibliography sources. Output file includes the required quote anthology and annotated primary-materials index.
+
