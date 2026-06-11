@@ -21,7 +21,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-11T05:33:05Z T0014 | 002-charlie-munger | F-key-writings | investors/002-charlie-munger/key-writings.md
 - [x] done:2026-06-11T07:32:25Z T0015 | 002-charlie-munger | G-mental-models | investors/002-charlie-munger/mental-models.md
 - [x] done:2026-06-11T08:31:59Z T0016 | 002-charlie-munger | H-synthesis | investors/002-charlie-munger/synthesis.md
-- [ ] T0017 | 003-benjamin-graham | A-profile | investors/003-benjamin-graham/profile.md
+- [x] done:2026-06-11T10:35:46Z T0017 | 003-benjamin-graham | A-profile | investors/003-benjamin-graham/profile.md
 - [ ] T0018 | 003-benjamin-graham | B-philosophy | investors/003-benjamin-graham/investment-philosophy.md
 - [ ] T0019 | 003-benjamin-graham | C-greatest-trades | investors/003-benjamin-graham/greatest-trades.md
 - [ ] T0020 | 003-benjamin-graham | D-mistakes | investors/003-benjamin-graham/mistakes-and-losses.md
