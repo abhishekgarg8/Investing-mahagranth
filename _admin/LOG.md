@@ -95,3 +95,8 @@
 - Output: investors/002-charlie-munger/synthesis.md (~1,542 words, 16 sources)
 - Notes: Completed Munger synthesis, ranked transferable lessons, regime dependence, luck-vs-skill, provisional Buffett-only closest/opposite comparison, unresolved questions, and INDEX.md row. Key caveats preserved: Wheeler/Munger record remains Buffett/Columbia single-source; Daily Journal/Alibaba/BYD/Tenneco/Costco ledgers remain unreconstructed.
 - Backlog added: None
+
+## 2026-06-11T10:35:46Z — T0017 — 003-benjamin-graham — A-profile — DONE
+- Output: investors/003-benjamin-graham/profile.md (~2,265 words, 18 sources)
+- Notes: Created Graham profile with life/career timeline, vehicle structure, 1945-1956 Graham-Newman performance caveats, GEICO outlier/regulatory-distribution context, Northern Pipeline activism context, current deceased/legal-status check, and open questions for primary-record reconstruction.
+- Backlog added: None
