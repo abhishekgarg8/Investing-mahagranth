@@ -27,7 +27,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-11T13:32:27Z T0020 | 003-benjamin-graham | D-mistakes | investors/003-benjamin-graham/mistakes-and-losses.md
 - [x] done:2026-06-11T14:37:30Z T0021 | 003-benjamin-graham | E-own-words | investors/003-benjamin-graham/in-their-own-words.md
 - [x] done:2026-06-11T16:34:39Z T0022 | 003-benjamin-graham | F-key-writings | investors/003-benjamin-graham/key-writings.md
-- [~] claimed:2026-06-11T17:20:47Z T0023 | 003-benjamin-graham | G-mental-models | investors/003-benjamin-graham/mental-models.md
+- [x] done:2026-06-11T22:19:53Z T0023 | 003-benjamin-graham | G-mental-models | investors/003-benjamin-graham/mental-models.md
 - [x] done:2026-06-11T19:35:38Z T0024 | 003-benjamin-graham | H-synthesis | investors/003-benjamin-graham/synthesis.md
 - [~] claimed:2026-06-11T20:21:29Z T0025 | 004-peter-lynch | A-profile | investors/004-peter-lynch/profile.md
 - [ ] T0026 | 004-peter-lynch | B-philosophy | investors/004-peter-lynch/investment-philosophy.md
