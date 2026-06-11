@@ -89,3 +89,9 @@
 - Output: investors/002-charlie-munger/mental-models.md (~3,107 words, 24 sources)
 - Notes: Reconstructed Munger's operational mental-model checklist from speeches, Berkshire/Daily Journal filings, trades, and mistakes. Current-status update reflects Daily Journal's February 2026 annual meeting result and March 2026 portfolio/margin figures.
 - Backlog added: None
+
+
+## 2026-06-11T08:31:59Z — T0016 — 002-charlie-munger — H-synthesis — DONE
+- Output: investors/002-charlie-munger/synthesis.md (~1,542 words, 16 sources)
+- Notes: Completed Munger synthesis, ranked transferable lessons, regime dependence, luck-vs-skill, provisional Buffett-only closest/opposite comparison, unresolved questions, and INDEX.md row. Key caveats preserved: Wheeler/Munger record remains Buffett/Columbia single-source; Daily Journal/Alibaba/BYD/Tenneco/Costco ledgers remain unreconstructed.
+- Backlog added: None
