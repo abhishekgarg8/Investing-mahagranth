@@ -144,3 +144,8 @@
 - Output: investors/004-peter-lynch/profile.md (~3,132 words, 20 sources)
 - Notes: Stale retry closeout: created Lynch profile with living/status check, Magellan vehicle structure, 29.2% CAGR arithmetic caveat, $18-$20 million-to-$14 billion AUM triangulation, public-access/investor-behavior caveats, and 2008 SEC gift-settlement context.
 - Backlog added: None
+
+## 2026-06-12T01:36:03Z — T0027 — 004-peter-lynch — C-greatest-trades — DONE
+- Output: investors/004-peter-lynch/greatest-trades.md (~3,188 words, 14 task-specific sources)
+- Notes: Completed Lynch greatest-trades file around Fannie Mae, auto cyclicals, and the Lynch/Rothchild ranked list of Magellan winners. Exact P&L figures are flagged `[single-source: Lynch/Rothchild book]` where primary Magellan reports have not yet been reconstructed; caveats preserved on public access, behavior gap, later Fannie/Freddie conservatorship, later Magellan scale/closet-indexing, and the 2008 SEC gift matter.
+- Backlog added: None
