@@ -1,3 +1,3 @@
-Tasks done: 40/812
-Current investor: 006-stanley-druckenmiller (next unclaimed task: T0041 A-profile)
-Projected finish date: 2026-07-14T20:28:11Z
+Tasks done: 39/812
+Current investor: 005-george-soros (next unclaimed task: T0040 H-synthesis; synthesis.md already committed pending TODO/LOG closeout)
+Projected finish date: 2026-07-14T20:34:26Z
