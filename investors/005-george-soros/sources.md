@@ -63,3 +63,33 @@ Additional queries covered: Soros reflexivity transcripts and essays; efficient-
 - Druckenmiller evidence is valuable for process and sizing but also creates attribution risk: some Quantum-era decisions were team decisions, not Soros-only decisions.
 - Reflexivity examples can become after-the-fact narratives. Later C/D/G tasks should seek timestamped trades, position sizes, and contemporaneous documents when judging implementation.
 - Current SFM language is useful continuity evidence but should not be over-read as Soros's personal doctrine under successor CIOs.
+
+## T0035 C-greatest-trades additions - 2026-06-12T11:46:35Z
+
+33. [Bank of England Quarterly Bulletin, 1992 Q4 - Operation of monetary policy](https://www.bankofengland.co.uk/quarterly-bulletin/1992/q4/operation-of-monetary-policy) - Official central-bank context for 1992 UK monetary operations and ERM stress; useful as primary background even though the HTML page is light and the PDF needs separate retrieval if later tasks need line-by-line official detail.
+34. [Guardian, 2005 - Black Wednesday pulled apart](https://www.theguardian.com/business/2005/feb/10/freedomofinformation.politics) - Source for post-FOI UK Treasury estimate that Black Wednesday's final bill was GBP3.3 billion.
+35. [Guardian, 2012 - Black Wednesday: how the Bank of England lost GBP3.3bn](https://www.theguardian.com/business/2012/sep/13/black-wednesday-bank-of-england-currency-markets) - Retrospective source for sterling's post-ERM falls against the Deutsche mark and dollar, plus UK cost context.
+36. [Inside the House of Money excerpt - Black Wednesday 1992](https://www.pauldeng.com/teaching/intecon/Sterling%20attacked%20-Inside%20the%20House%20of%20Money.pdf) - Excerpted source for ERM mechanics, UK rate moves, Bessent context, SFM profit range, and post-break sterling path.
+37. [Guardian, 2010 - Black Wednesday victor Stanley Druckenmiller quits hedge fund](https://www.theguardian.com/business/2010/aug/19/black-wednesday-victor-druckenmiller-quits-hedge) - Source for attribution split among Druckenmiller, Bessent, and Soros, including Bessent's statement that Druckenmiller originated the short-pound idea and Soros pressed size.
+38. [Time, 1987 - George Soros: World's Champion Bull Rider](https://time.com/archive/6709115/george-soros-worlds-champion-bull-rider/) - Near-contemporary source for the post-Plaza yen switch, about $150 million profit, and broader two-year Quantum profit context.
+39. [GeorgeSoros.com, 1987 - A Global New Deal](https://www.georgesoros.com/1987/08/13/a-global-new-deal/) - Primary Soros essay framing the Plaza Agreement as a break from pure floating-currency orthodoxy.
+40. [Jeffrey Frankel / Baker Institute, 2015 - The Plaza Accord, 30 years later](https://www.bakerinstitute.org/sites/default/files/2015-09/import/WorkingPaper-Plaza-Frankel-092815.pdf) - Academic/policy source for dollar appreciation before Plaza, G-5 intent to bring down the dollar, and subsequent 1985-87 dollar decline.
+41. [Los Angeles Times, 2008 - George Soros' sleeper hit: the credit crisis of 2008](https://www.latimes.com/archives/blogs/jacket-copy/story/2008-09-29/george-soros-sleeper-hit-the-credit-crisis-of-2008) - Source for Soros's 2007 return to directing Quantum investments after subprime erupted and Alpha's $2.9 billion earnings estimate.
+42. [Guardian, 2008 - Hedge fund managers reap billions amid slump](https://www.theguardian.com/business/2008/apr/16/useconomy.creditcrunch) - Independent press source for Alpha's 2007 $2.9 billion Soros estimate and more-than-30% Quantum return claim.
+43. [GeorgeSoros.com, 2008 - The Worst Market Crisis in 60 Years](https://www.georgesoros.com/2008/01/22/the_worst_market_crisis_in_60_years/) - Primary Soros essay on the credit super-boom, subprime spread, CDOs/CDS/ABCP stress, and market-fundamentalism critique.
+44. [Guardian, 2013 - George Soros makes more than $1.2bn betting against yen](https://www.theguardian.com/business/2013/feb/15/george-soros-bet-against-yen) - Source for Abenomics yen-short payoff, Bessent attribution, short-yen/long-Japanese-equity framing, and SFM family-fund size.
+45. [Fung, Hsieh, Tsatsaronis - Do Hedge Funds Disrupt Emerging Markets?](https://people.duke.edu/~dah7/Emg.pdf) - Academic source for large-hedge-fund Asian-currency exposures, aggregate baht/ringgit evidence, and caveats against blaming hedge funds as sole/decisive crisis cause.
+46. [NBER Working Paper 6427 - Hedge Funds and the Asian Currency Crisis of 1997](https://www.nber.org/papers/w6427) - Academic source for the finding that no empirical evidence supported the claim that Soros or other hedge-fund managers were responsible for the Asian crisis.
+47. [Malaysiakini, 2006 - Q&A: I did not short-sell the ringgit](https://www.malaysiakini.com/news/60771) - Soros email-interview source for his claim that he was buying, not selling, as currencies began to decline; full text is partly gated, so use cautiously and alongside academic papers.
+
+## T0035 query coverage notes
+
+Additional searches covered: Black Wednesday position size, profit estimates, Bank of England/UK Treasury official cost context, Druckenmiller and Bessent attribution, House of Money sterling excerpts, 1985 Plaza Accord yen/dollar trade, Time 1987 Quantum profit coverage, Soros Plaza essays, Frankel/Baker Institute Plaza research, 2007 subprime/credit-crisis Soros comeback, Alpha hedge-fund earnings estimates, Soros 2008 credit-crisis writings, 2012-13 Abenomics yen trade, Bessent/SFM yen attribution, Asian currency crisis hedge-fund papers, Thai baht/ringgit short evidence, Malaysiakini's Soros ringgit Q&A, and Soros/Mahathir controversy context.
+
+## T0035 limitations to carry forward
+
+- Black Wednesday remains the best-evidenced Soros trade, but the exact P&L is disputed across reputable press sources and should remain a range unless internal Quantum records or the original Kaletsky interview text is retrieved.
+- The 1985-87 Plaza-era trade has a clear yen-switch profit figure in Time, but the larger two-year Quantum profit number is a portfolio-level figure and should not be attributed solely to the yen trade.
+- The 2007 credit-crisis comeback is backed by Alpha/press earnings and return estimates, but public sources opened here do not reveal the underlying instruments.
+- The 2012-13 yen trade belongs to Soros Fund Management/Scott Bessent under Soros's platform; do not present it as a solo George Soros decision.
+- Asian-currency shorts are supported by Soros's later account and academic footprint evidence, but no reliable Soros-specific P&L was found in this run.
