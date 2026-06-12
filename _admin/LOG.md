@@ -174,3 +174,9 @@
 - Output: investors/004-peter-lynch/key-writings.md (~2,743 words, 25 sources)
 - Notes: Stale retry closeout: verified the already-committed key-writings file, appended the missing T0030 source map, and spot-checked Simon & Schuster, Fidelity, SEC, and Worth citations. Page-level book verification, Worth original-URL upgrades, investor-return-gap tracing, and 2025 Compound audio checks remain open.
 - Backlog added: None
+
+
+## 2026-06-12T09:45:29Z — T0033 — 005-george-soros — A-profile — DONE
+- Output: investors/005-george-soros/profile.md (~2,521 words, 22 sources)
+- Notes: Created Soros profile with living/status check, SFM family-office structure, Quantum return caveats, sterling profit dispute, 2026 13F/AUM caveats, and legal/criticism context around France, 1979 SEC complaint, Asian-crisis claims, and conspiracy framing.
+- Backlog added: None
