@@ -220,3 +220,8 @@
 - Output: investors/006-stanley-druckenmiller/profile.md (~2,429 words, 20 sources)
 - Notes: Created Druckenmiller profile with current living/status check, Duquesne/Dreyfus/Soros vehicle structure, caveated 30%/no-losing-year record, 2026 13F footprint, philanthropy, and legal/regulatory search limitations. Key caveats preserved around audited returns, start-date differences, Quantum attribution, and 13F non-comparability to total AUM.
 - Backlog added: None
+
+## 2026-06-12T19:29:19Z — T0042 — 006-stanley-druckenmiller — B-philosophy — DONE
+- Output: investors/006-stanley-druckenmiller/investment-philosophy.md (~2,916 words, 16 sources)
+- Notes: Completed Druckenmiller philosophy around forward-looking macro, liquidity, cross-asset flexibility, concentration/sizing, portfolio-matrix risk management, sell discipline, temperament, regime dependence, and transferability caveats. Preserved caveats around audited returns, intra-year drawdowns, Quantum attribution, legal/regulatory search limitations, and 13F non-comparability.
+- Backlog added: None
