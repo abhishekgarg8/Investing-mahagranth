@@ -48,7 +48,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-12T18:33:45Z T0041 | 006-stanley-druckenmiller | A-profile | investors/006-stanley-druckenmiller/profile.md
 - [x] done:2026-06-12T19:29:19Z T0042 | 006-stanley-druckenmiller | B-philosophy | investors/006-stanley-druckenmiller/investment-philosophy.md
 - [x] done:2026-06-12T20:36:04Z T0043 | 006-stanley-druckenmiller | C-greatest-trades | investors/006-stanley-druckenmiller/greatest-trades.md
-- [~] claimed:2026-06-12T21:20:12Z T0044 | 006-stanley-druckenmiller | D-mistakes | investors/006-stanley-druckenmiller/mistakes-and-losses.md
+- [x] done:2026-06-12T21:28:52Z T0044 | 006-stanley-druckenmiller | D-mistakes | investors/006-stanley-druckenmiller/mistakes-and-losses.md
 - [ ] T0045 | 006-stanley-druckenmiller | E-own-words | investors/006-stanley-druckenmiller/in-their-own-words.md
 - [ ] T0046 | 006-stanley-druckenmiller | F-key-writings | investors/006-stanley-druckenmiller/key-writings.md
 - [ ] T0047 | 006-stanley-druckenmiller | G-mental-models | investors/006-stanley-druckenmiller/mental-models.md
