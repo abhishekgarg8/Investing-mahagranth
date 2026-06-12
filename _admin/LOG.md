@@ -185,3 +185,8 @@
 - Output: investors/005-george-soros/investment-philosophy.md (~2,579 words, 32 sources)
 - Notes: Completed Soros philosophy around fallibility/reflexivity, boom-bust feedback loops, macro process, sizing, sell discipline, risk, career evolution, market-fundamentalism rejection, regime fit, and tensions around legal/regulatory history and attribution to Quantum/SFM teams.
 - Backlog added: None
+
+## 2026-06-12T11:46:35Z — T0035 — 005-george-soros — C-greatest-trades — DONE
+- Output: investors/005-george-soros/greatest-trades.md (~3,600 words, 15 task-specific sources)
+- Notes: Completed Soros greatest-trades file across Black Wednesday sterling, post-Plaza dollar/yen and equity futures, 2007 credit-crisis comeback, Abenomics yen, and Asian-currency shorts. Key caveats preserved: Black Wednesday P&L remains disputed from about $1B/GBP1B to about $2B; 1985-87 and 2007 figures are partly portfolio-level; later yen trade is SFM/Bessent attribution; Asian-crisis P&L was not found.
+- Backlog added: None
