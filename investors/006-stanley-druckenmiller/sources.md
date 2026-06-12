@@ -133,3 +133,42 @@ Queries covered: Druckenmiller mistakes/losses; Hard Lessons/Nvidia; 2010 invest
 - 1999-2000 Quantum, Duquesne, and personal-account P&L attribution remains press-reported and often collapsed in public accounts.
 - 13F filings cannot reconstruct realized P&L, derivatives, shorts, cash, non-U.S. assets, or intraperiod trading.
 - Legal/regulatory searches found routine filings but no major personal enforcement case in the opened source set; later tasks should refresh this.
+
+## T0046 F-key-writings source additions
+
+As of 2026-06-12. The key-writings task reused the T0041-T0044 Druckenmiller source map and added/verified the following writing-specific sources.
+
+1. [Cove Street Capital PDF - Druckenmiller Lost Tree Club speech](https://covestreetcapital.com/wp-content/uploads/2015/03/Druckenmiller-_Speech.pdf) - Best provenance found for the 2015 Lost Tree Club transcript; used for direct-speech framing of concentration, sizing, bonds, sterling, and the 1999-2000 self-critique.
+2. [Arya Deniz transcript mirror - Stanley Druckenmiller's Lost Tree speech](https://aryadeniz.substack.com/p/stanley-druckenmillers-lost-tree) - Readable transcript mirror used for navigation and cross-checking; exact quotations should still be verified against the PDF.
+3. [The New Market Wizards scan - Stanley Druckenmiller chapter](https://scispace.com/pdf/the-new-market-wizards-conversations-with-america-s-top-4u1ydm6a7n.pdf) - Primary-adjacent edited interview chapter for early process, losses, Soros influence, and top-down flexibility.
+4. [Goldman Sachs - Talks at GS: Stanley Druckenmiller](https://www.goldmansachs.com/insights/talks-at-gs/stanley-druckenmiller) - Official event page establishing the 2021 Goldman Sachs interview.
+5. [Livewire Markets PDF - Talks at GS transcript](https://www.livewiremarkets.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBckNLIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--22c7d1b9313e40e108f94e0e1878baf2704bf257/transcript.pdf) - Opened text transcript for the 2021 Goldman Sachs interview, used for portfolio matrix, risk management, and policy/liquidity framing.
+6. [A Letter a Day - John Collison and Stan Druckenmiller](https://aletteraday.substack.com/p/letter-40-john-collison-and-stan) - Transcript source for the 2022 Sohn/Collison conversation; used for late-cycle macro, inflation, market-internals, and signal-quality discussion.
+7. [Norges Bank Investment Management - 2023 Investment Conference](https://www.nbim.no/en/investments/annual-investment-conference/2023-investment-conference/) - Official event page corroborating Druckenmiller's 2023 NBIM conference appearance and biography.
+8. [Tidal Wave / Arda Capital - Transcript: Druckenmiller, April 2023](https://newsletter.tidalwaveresearch.com/p/transcript-druckenmiller-april-2023) - Lightly edited transcript of the NBIM interview, used for fat-pitch discipline, asset buckets, drawdown arithmetic, and technical-analysis decay.
+9. [Morgan Stanley - Hard Lessons: Stan Druckenmiller](https://www.morganstanley.com/insights/videos/hard-lessons/duquesne-stan-druckenmiller-iliana-bouzali) - Current official 2026 transcript/video source for recent Teva and Nvidia process examples, no-down-years caveat, temperament, and current Duquesne Family Office role.
+10. [Pittsburgh Quarterly - What Do I Know? Stanley Druckenmiller](https://pittsburghquarterly.com/articles/what-do-i-know-stanley-druckenmiller/) - Long autobiographical interview/source for chronology, early mentors, Duquesne founding, Soros period, closure logic, and philanthropy.
+11. [InvestmentNews/Bloomberg - Stanley Druckenmiller closing up shop](https://www.investmentnews.com/alternatives/stanley-druckenmiller-closing-up-shop/30897) - Contemporaneous 2010 source for closure, 2010 drawdown, reported performance, and investor-letter context.
+12. [Guardian - Black Wednesday victor Stanley Druckenmiller quits hedge fund](https://www.theguardian.com/business/2010/aug/19/black-wednesday-victor-druckenmiller-quits-hedge) - Independent 2010 closure source for outside-capital return, AUM, emotional toll, and Black Wednesday attribution context.
+13. [Business Insider - Stanley Druckenmiller retirement letter](https://www.businessinsider.com/stanley-druckenmiller-retirement-letter-2010-8) - Source quoting/summarizing the 2010 retirement letter's scale and emotional-burden rationale.
+14. [SEC Form 13F-HR, Duquesne Family Office LLC, 2026 Q1](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000004/xslForm13F_X02/primary_doc.xml) - Primary filing used to explain public-holdings limits and current observable 13F evidence.
+15. [SEC Form D/A, Juggernaut Fund LP, 2021](https://www.sec.gov/Archives/edgar/data/1219173/000121917321000001/xslFormDX01/primary_doc.xml) - Primary filing for private-vehicle and Duquesne Family Office relationship context.
+16. [Simon & Schuster - Stan Druckenmiller author page](https://www.simonandschuster.com/authors/Stan-Druckenmiller/200113643) - Used only as a catalog/provenance caution; this run did not locate a Druckenmiller-authored investment monograph.
+17. [O'Reilly - Inside the House of Money, Chapter 12 preview](https://www.oreilly.com/library/view/inside-the-house/9781118865729/xhtml/Chapter12.html) - Secondary/near-primary Bessent chapter preview used for Soros/Quantum ecosystem and attribution caveats.
+18. [Council on Foreign Relations - More Money Than God event](https://www.cfr.org/event/more-money-god-hedge-funds-and-making-new-elite) - Source on Mallaby's hedge-fund-history research design and context for using the book.
+19. [Google Books - More Money Than God](https://books.google.com/books/about/More_Money_Than_God.html?id=SuAkejQbpdIC) - Book metadata/context source for Mallaby's hedge-fund history.
+20. [A Wealth of Common Sense - You Are Not Stanley Druckenmiller](https://awealthofcommonsense.com/2016/11/you-are-not-stanley-druckenmiller/) - Best short transferability critique for retail/institutional readers tempted to copy Druckenmiller's public macro views.
+21. [Brunnermeier and Nagel - Hedge Funds and the Technology Bubble](https://www.princeton.edu/~markus/research/papers/hedgefunds_bubble.pdf) - Academic context for interpreting hedge-fund behavior during the late-1990s technology bubble.
+
+## T0046 search coverage notes
+
+Queries covered: Druckenmiller writings, books, speeches, interviews, transcripts, Lost Tree Club, Goldman Sachs transcript, Morgan Stanley Hard Lessons, Sohn 2022 Collison transcript, NBIM/Norges Bank 2023 transcript, Pittsburgh Quarterly autobiographical interview, Duquesne 2010 investor letter/closure, Jack Schwager/New Market Wizards, Steven Drobny/Inside the House of Money, Sebastian Mallaby/More Money Than God, authored-book catalog checks, SEC filings, Duquesne Family Office Form ADV/Form D/13F evidence, lawsuit/SEC complaint/legal criticism checks, and transferability critiques.
+
+## T0046 source limitations
+
+- No standalone Druckenmiller-authored investment book or recurring public letter series was located in this run.
+- The full original 2010 Duquesne closure letter remains missing; only excerpts and contemporaneous reporting were used.
+- The Lost Tree Club PDF was located, but exact quotes should be page-verified before future quote-heavy use.
+- Schwager's chapter and Drobny/Mallaby book material should be checked against licensed or physical copies for page-level citation in final synthesis.
+- 13F and Form D filings are primary documents but are not performance evidence and cannot reconstruct the full macro portfolio.
+- Soros/Quantum-era attribution remains unresolved across Druckenmiller, Soros, Bessent, and the broader organization.
