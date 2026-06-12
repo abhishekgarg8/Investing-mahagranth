@@ -163,3 +163,9 @@
 - Output: investors/004-peter-lynch/mental-models.md (~2,953 words, 20 task-specific sources)
 - Notes: Reconstructed Lynch's operational checklist from existing A-E files plus fresh book/transcript/Fidelity/SEC sources, emphasizing category discipline, balance-sheet survival, liquidity/client-behavior risk, scale, and transferability limits. Key gaps remain page-verifying Lynch/Rothchild books and reconstructing Lynch-era Magellan holdings/cash/turnover.
 - Backlog added: None
+
+
+## 2026-06-12T06:26:20Z — T0032 — 004-peter-lynch — H-synthesis — DONE
+- Output: investors/004-peter-lynch/synthesis.md (~1,626 words, 18 sources)
+- Notes: Completed Lynch synthesis, ranked transferable lessons, style taxonomy, regime dependence, luck-vs-skill assessment, closest/opposite repo comparisons, unresolved questions, and INDEX.md row. T0030 F-key-writings remains freshly claimed/missing, so synthesis explicitly flags refresh dependency.
+- Backlog added: None
