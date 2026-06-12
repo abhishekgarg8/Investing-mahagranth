@@ -154,3 +154,7 @@
 - Output: investors/004-peter-lynch/mistakes-and-losses.md (~3,238 words, 14 task-specific sources)
 - Notes: Completed Lynch mistakes/losses around 1987 liquidity/redemptions, repeat drawdowns, investor behavior gap/public-access caveats, sell-discipline errors, Starbucks/Apple omissions, 2008 housing/Fannie-Freddie risk, the 2008 SEC broker-gift settlement, and later Magellan scale warnings.
 - Backlog added: None
+## 2026-06-12T03:29:06Z — T0029 — 004-peter-lynch — E-own-words — DONE
+- Output: investors/004-peter-lynch/in-their-own-words.md (~1,541 words, 21 task-specific sources)
+- Notes: Completed Lynch quote file with 26 short source-visible quotes, annotated primary/near-primary materials index, and attribution watchlist. Key caveats preserved: 2025 Compound transcript needs audio spot-checking; book quotes still need page-level verification in F-key-writings.
+- Backlog added: None
