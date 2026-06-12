@@ -1,6 +1,6 @@
 # George Soros - Mistakes And Losses
 
-As of 2026-06-12T12:50:00Z, George Soros is living and Soros Fund Management is a family office / global asset manager, not an outside-capital hedge fund open to normal investors ([Open Society Foundations, 2026](https://www.opensocietyfoundations.org/george-soros); [SFM, 2025](https://sorosfundmgmt.com/)). This file covers the main market losses, legal/regulatory blemishes, and reputational failures associated with Soros, Quantum, and Soros Fund Management. Because Quantum was private and often offshore, loss figures are usually press-reported or participant-reported rather than audited fund statements.
+As of 2026-06-12T12:33:38Z, George Soros is living and Soros Fund Management is a family office / global asset manager, not an outside-capital hedge fund open to normal investors ([Open Society Foundations, 2026](https://www.opensocietyfoundations.org/george-soros); [SFM, 2025](https://sorosfundmgmt.com/)). This file covers the main market losses, legal/regulatory blemishes, and reputational failures associated with Soros, Quantum, and Soros Fund Management. Because Quantum was private and often offshore, loss figures are usually press-reported or participant-reported rather than audited fund statements.
 
 ## Executive Pattern
 
