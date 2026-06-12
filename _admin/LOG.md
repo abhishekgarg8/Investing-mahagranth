@@ -235,3 +235,9 @@
 - Output: investors/006-stanley-druckenmiller/mistakes-and-losses.md (~3,099 words, 18 task-specific sources)
 - Notes: Completed Druckenmiller mistakes/losses across early Duquesne drawdowns, Drysdale/T-bill near-death, 1987 reversal, 1991 Gulf War positioning, 1999-2000 technology/Quantum damage, 2010 closure, Nvidia premature sale, and legal/regulatory caveats. Key limitations preserved around audited Duquesne returns, original 2010 letter, Quantum/Duquesne attribution, and 13F non-comparability.
 - Backlog added: None
+
+
+## 2026-06-12T23:44:01Z — T0046 — 006-stanley-druckenmiller — F-key-writings — DONE
+- Output: investors/006-stanley-druckenmiller/key-writings.md (~2,925 words, 21 sources)
+- Notes: Completed key-writings guide treating Druckenmiller's corpus as speeches, long interviews, edited chapters, filings, and serious secondary works rather than a standalone authored book. Limitations preserved around the missing 2010 closure letter, quote provenance, page-level book verification, 13F limits, and Soros/Quantum attribution.
+- Backlog added: None
