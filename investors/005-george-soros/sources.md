@@ -94,7 +94,7 @@ Additional searches covered: Black Wednesday position size, profit estimates, Ba
 - The 2012-13 yen trade belongs to Soros Fund Management/Scott Bessent under Soros's platform; do not present it as a solo George Soros decision.
 - Asian-currency shorts are supported by Soros's later account and academic footprint evidence, but no reliable Soros-specific P&L was found in this run.
 
-## T0036 D-mistakes additions - 2026-06-12T12:50:00Z
+## T0036 D-mistakes additions - 2026-06-12T12:33:38Z
 
 48. [GeorgeSoros.com, 1988 - After Black Monday](https://www.georgesoros.com/1988/03/16/after-black-monday/) - Primary Soros post-crash essay analyzing the 1987 sequence from Japanese bonds through U.S. bonds, equities, and the dollar; useful for his own post-mortem language.
 49. [Los Angeles Times, 1994 - Soros weathers $600-million blow](https://www.latimes.com/archives/la-xpm-1994-03-07-fi-31188-story.html) - Near-contemporaneous source for the February 1994 yen-related one-day loss, 5% yen move, and contemporaneous assets/context.
