@@ -169,3 +169,8 @@
 - Output: investors/004-peter-lynch/synthesis.md (~1,626 words, 18 sources)
 - Notes: Completed Lynch synthesis, ranked transferable lessons, style taxonomy, regime dependence, luck-vs-skill assessment, closest/opposite repo comparisons, unresolved questions, and INDEX.md row. T0030 F-key-writings remains freshly claimed/missing, so synthesis explicitly flags refresh dependency.
 - Backlog added: None
+
+## 2026-06-12T08:24:08Z — T0030 — 004-peter-lynch — F-key-writings — DONE
+- Output: investors/004-peter-lynch/key-writings.md (~2,743 words, 25 sources)
+- Notes: Stale retry closeout: verified the already-committed key-writings file, appended the missing T0030 source map, and spot-checked Simon & Schuster, Fidelity, SEC, and Worth citations. Page-level book verification, Worth original-URL upgrades, investor-return-gap tracing, and 2025 Compound audio checks remain open.
+- Backlog added: None
