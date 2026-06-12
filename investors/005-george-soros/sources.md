@@ -39,3 +39,27 @@ Queries in this run covered: official Soros biography; Open Society Foundations 
 - The 1979 SEC complaint needs the underlying filing and final outcome.
 - The BSG Resources civil litigation source was opened only for allegation context; final disposition was not verified in this task.
 - Soros's later investment record under successor CIOs should be separated from Soros's own investment decisions.
+
+## T0034 B-philosophy additions - 2026-06-12T10:45:35Z
+
+23. [GeorgeSoros.com - Fallibility, Reflexivity, and the Human Uncertainty Principle](https://www.georgesoros.com/2014/01/13/fallibility-reflexivity-and-the-human-uncertainty-principle-2/) - Primary Soros essay restating the fallibility/reflexivity framework and boom-bust sequence in compact form.
+24. [Open Society Foundations PDF - Financial Markets transcript](https://www.opensocietyfoundations.org/uploads/2b96bb8c-e2e1-4d88-9eea-badf16d0a2b8/george-soros-financial-markets-transcript.pdf) - Primary/near-primary 2009 lecture applying reflexivity to financial markets, efficient-market rejection, leverage, bubbles, and regulation.
+25. [GeorgeSoros.com - Remarks delivered at the INET Conference at King's College](https://www.georgesoros.com/2010/04/09/anatomy_of_a_crisis_-_the_living_history_of_the_last_30_years_economic_theo/) - Primary Soros remarks on financial markets as history, feedback loops, credit/leverage, and market fundamentalism.
+26. [GeorgeSoros.com - Remarks delivered at the Cato Institute](https://www.georgesoros.com/2011/04/28/why_i_agree_with_some_of_friedrich_hayek/) - Primary source linking Popper, Hayek, imperfect knowledge, fallibility, reflexivity, and Soros's rejection of efficient-market/rational-expectations framing.
+27. [GeorgeSoros.com - The Crisis & What To Do About It](https://www.georgesoros.com/2008/11/06/the_crisis_what_to_do_about_it/) - Primary source for the limits of reflexivity as prediction, market fundamentalism, and regulatory/risk implications after 2008.
+28. [GeorgeSoros.com - The Worst Market Crisis in 60 Years](https://www.georgesoros.com/2008/01/22/the_worst_market_crisis_in_60_years/) - Primary source for Soros's credit-super-boom interpretation and critique of market fundamentalism.
+29. [GeorgeSoros.com - The Perilous Price of Oil](https://www.georgesoros.com/2008/08/27/the_perilous_price_of_oil/) - Primary source for applying reflexivity to commodity markets, institutional flows, index buying, and bubble mechanics.
+30. [GeorgeSoros.com - Toward a Global Open Society](https://www.georgesoros.com/1997/12/02/toward-a-global-open-society/) - Primary source for Soros's distinction between market values and social/political values, and for linking fallibility to open-society institutions.
+31. [Morgan Stanley - Stan Druckenmiller: Hard Lessons](https://www.morganstanley.com/insights/videos/hard-lessons/duquesne-stan-druckenmiller-iliana-bouzali) - Direct modern interview source for Druckenmiller's recollection that Soros's key lesson was sizing and payoff asymmetry, plus caveat against simple contrarianism.
+32. [HUDOC - Soros v. France, application no. 50425/06](https://hudoc.echr.coe.int/eng?i=001-106680) - Primary case metadata for the European Court of Human Rights decision used alongside legal reporting on the insider-trading conviction challenge.
+
+## T0034 query coverage notes
+
+Additional queries covered: Soros reflexivity transcripts and essays; efficient-market critique; market fundamentalism; boom-bust process mechanics; oil/commodity reflexivity; INET/Cato speeches; Druckenmiller/Soros sizing references; 1999-2000 Quantum risk reduction; family-office transition; current SFM mandate; SEC 13F caveats; Asian-crisis hedge-fund evidence; and Soros v. France legal status.
+
+## T0034 limitations to carry forward
+
+- The B-philosophy file reconstructs Soros's process mostly from public essays, lectures, interviews, and secondary reports. It does not include internal Quantum memos or audited position books.
+- Druckenmiller evidence is valuable for process and sizing but also creates attribution risk: some Quantum-era decisions were team decisions, not Soros-only decisions.
+- Reflexivity examples can become after-the-fact narratives. Later C/D/G tasks should seek timestamped trades, position sizes, and contemporaneous documents when judging implementation.
+- Current SFM language is useful continuity evidence but should not be over-read as Soros's personal doctrine under successor CIOs.
