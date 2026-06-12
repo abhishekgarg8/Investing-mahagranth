@@ -166,3 +166,32 @@ Additional searches covered: Soros own quotes; reflexivity lecture transcripts; 
 - The quote set deliberately avoids quote aggregators and famous orphan quotes; this leaves out some popular Soros aphorisms that could not be tied to an opened original venue.
 - Internal Quantum letters, investor updates, and trading-room memos remain missing; public essays and speeches dominate the own-words corpus.
 - Several book pages are useful indexes but not substitutes for page-level book verification in the later F-key-writings task.
+
+## T0038 F-key-writings additions - 2026-06-12T14:34:51Z
+
+91. [GeorgeSoros.com - Books](https://www.georgesoros.com/books/) - Official index of Soros's own books and selected books about him; useful for publication dates, corpus scope, and ranked reading map.
+92. [Hachette/PublicAffairs - Open Society: Reforming Global Capitalism Reconsidered](https://www.hachettebookgroup.com/titles/george-soros/open-society-reforming-global-capitalism-reconsidered/9781586480196/?lens=publicaffairs) - Publisher page for Soros's 2000 institutional-reform sequel to *The Crisis of Global Capitalism*.
+93. [Hachette/PublicAffairs - The New Paradigm for Financial Markets](https://www.hachettebookgroup.com/titles/george-soros/the-new-paradigm-for-financial-markets/9781586486846/?lens=publicaffairs) - Publisher page for the 2008 credit-crisis book; useful for scope, dates, and official subtitle.
+94. [Hachette/PublicAffairs - In Defense of Open Society](https://www.hachettebookgroup.com/titles/george-soros/in-defense-of-open-society/9781541736702/?lens=publicaffairs) - Publisher page for late-career collection covering AI, political philanthropy, CEU, boom/bust theory, and open society.
+95. [GeorgeSoros.com - Opening the Soviet System](https://www.georgesoros.com/1990/02/02/opening_the_soviet_system/) - Official page for Soros's early post-Soviet/open-society book.
+96. [GeorgeSoros.com PDF - Underwriting Democracy chapter excerpt](https://www.georgesoros.com/wp-content/uploads/2017/10/underwriting_democracy-chap-1-2017_10_05.pdf) - Official excerpt for Soros's practical foundation-building in Eastern Europe.
+97. [Hachette/PublicAffairs - The Age of Fallibility](https://www.hachettebookgroup.com/titles/george-soros/the-age-of-fallibility/9781586485337/?lens=publicaffairs) - Publisher page for Soros's post-9/11 fallibility/political philosophy book.
+98. [Penguin Random House - Michael T. Kaufman, Soros](https://www.penguinrandomhouse.com/books/90407/soros-by-michael-kaufman/) - Publisher page for the best full-life biography located in this run; notes Soros's cooperation and scope.
+99. [Council on Foreign Relations - Sebastian Mallaby, More Money Than God](https://www.cfr.org/books/more-money-god) - Publisher/author-institution page for hedge-fund industry history that includes Soros in the broader hedge-fund lineage.
+100. [O'Reilly - Inside the House of Money, Scott Bessent chapter preview](https://www.oreilly.com/library/view/inside-the-house/9781118865729/xhtml/Chapter12.html) - Practitioner source for Bessent/Soros/Druckenmiller macro culture and outside-capital pressure caveats.
+101. [GeorgeSoros.com - The Worst Market Crisis in 60 Years](https://www.georgesoros.com/2008/01/22/the_worst_market_crisis_in_60_years/) - Primary timestamped 2008 essay on housing, credit, moral hazard, and market fundamentalism.
+102. [GeorgeSoros.com - The Perilous Price of Oil](https://www.georgesoros.com/2008/08/27/the_perilous_price_of_oil/) - Primary/testimony-derived essay applying reflexivity to oil, commodity-index buying, and bubbles.
+103. [GeorgeSoros.com - Remarks delivered at the INET Conference at King's College](https://www.georgesoros.com/2010/04/09/anatomy_of_a_crisis_-_the_living_history_of_the_last_30_years_economic_theo/) - Primary speech on economics as history, not physics; useful for mature methodology.
+104. [GeorgeSoros.com - Remarks delivered at the Cato Institute](https://www.georgesoros.com/2011/04/28/why_i_agree_with_some_of_friedrich_hayek/) - Primary speech clarifying Soros's relationship to Hayek, Popper, market fundamentalism, and regulation.
+105. [GeorgeSoros.com - Can Democracy Survive the Polycrisis?](https://www.georgesoros.com/2023/06/06/can-democracy-survive-the-polycrisis/) - Late public statement extending open/closed society framing to AI, climate, Ukraine, and democracy.
+
+## T0038 query coverage notes
+
+Additional searches covered: Soros official book index; *The Alchemy of Finance*; *Soros on Soros* official excerpt; *The Crisis of Global Capitalism*; *Open Society*; *The New Paradigm for Financial Markets*; *Financial Turmoil in Europe and the United States*; *The Soros Lectures*; *In Defense of Open Society*; *Opening the Soviet System*; *Underwriting Democracy*; *The Age of Fallibility*; *The Tragedy of the European Union*; Soros biographies; Connie Bruck's *New Yorker* profile; Sebastian Mallaby's *More Money Than God*; Steven Drobny / Scott Bessent material; Soros criticism; SEC complaint; French insider-trading conviction; BSG Resources litigation; and antisemitic conspiracy-theory context.
+
+## T0038 limitations to carry forward
+
+- Full authorized page-level text was not retrieved for several Soros books; chapter recommendations in key-writings.md are therefore section-level and explicitly flagged.
+- No Quantum investor letters, internal trading memos, or risk reports were located; public essays and speeches remain the core primary corpus.
+- Secondary works about Soros should be page-checked before later files quote or rely on exact chapter claims.
+- The Drobny/Bessent source opened here is a preview; use a licensed full copy before extracting detailed quotations or full sterling-trade passages.
