@@ -97,3 +97,39 @@ Queries covered: Druckenmiller greatest trades; Black Wednesday Bessent/Soros/po
 - The Swedish krona $1B figure remains [single-source] from the Bloomberg/InvestmentNews profile.
 - Nvidia and Teva P&L cannot be inferred from 13Fs because they omit intraperiod trades, hedges, derivatives, shorts, cost basis, and realized gains.
 - The 2008 crisis section remains a partial performance/context entry until full Duquesne letters or contemporaneous position-level evidence are found.
+
+## T0044 D-mistakes source additions
+
+As of 2026-06-12. The mistakes-and-losses task reused the existing Druckenmiller source map and added/verified the following task-specific sources.
+
+1. [Morgan Stanley - Hard Lessons: Stan Druckenmiller](https://www.morganstanley.com/insights/videos/hard-lessons/duquesne-stan-druckenmiller-iliana-bouzali) - Current near-primary source for selling winners too early, Nvidia, no-losing-year caveats, technical-analysis decay, scars/drawdown psychology, and current Duquesne Family Office role.
+2. [The New Market Wizards scan - Stanley Druckenmiller chapter](https://scispace.com/pdf/the-new-market-wizards-conversations-with-america-s-top-4u1ydm6a7n.pdf) - Near-contemporary source for the 1981 drawdown, 1982 Drysdale/T-bill near-death, 1987 reversal, 1991 wrong-way positioning, and loss-taking discipline.
+3. [Pittsburgh Quarterly - What Do I Know? Stanley Druckenmiller](https://pittsburghquarterly.com/articles/what-do-i-know-stanley-druckenmiller/) - Autobiographical source for Drysdale revenue shock, Duquesne founding stress, Soros/Quantum context, and 2010 closure logic.
+4. [Cove Street Capital PDF - Druckenmiller Lost Tree Club speech](https://covestreetcapital.com/wp-content/uploads/2015/03/Druckenmiller-_Speech.pdf) - First-person speech source for the 1999-2000 dot-com mistake and broader concentration lessons.
+5. [Arya Deniz transcript mirror - Stanley Druckenmiller's Lost Tree Club speech](https://aryadeniz.substack.com/p/stanley-druckenmillers-lost-tree) - Readable mirror used to cross-check the Lost Tree Club PDF text; not a substitute for provenance checks.
+6. [InvestmentNews/Bloomberg - Stanley Druckenmiller closing up shop](https://www.investmentnews.com/alternatives/stanley-druckenmiller-closing-up-shop/30897) - 2010 source for 5% drawdown, 2008/2009 returns, missed opportunities, Quantum-era technology figures, and closure rationale.
+7. [Bloomberg mirror via Auburn - Soros Fund Managers Leave After Losses](https://webhome.auburn.edu/~pughwi1/soros.html) - Contemporaneous 2000 source for Quantum losses, asset decline, and departures after technology and macro losses.
+8. [Forbes - Soros fund hit by tech wreck](https://www.forbes.com/2000/04/28/mu7.html) - Contemporaneous source for Quantum 2000 loss context and Druckenmiller resignation.
+9. [Guardian - Black Wednesday victor Stanley Druckenmiller quits hedge fund](https://www.theguardian.com/business/2010/aug/19/black-wednesday-victor-druckenmiller-quits-hedge) - 2010 source for closure-letter excerpts, emotional toll, AUM, and no-losing-year context.
+10. [Chron/AP - Winning hedge fund manager is calling it quits](https://www.chron.com/business/article/Winning-hedge-fund-manager-is-calling-it-quits-1615516.php) - Independent 2010 source for 30%/no-losing-year claim, 5% year-to-date drawdown, and $12 billion AUM.
+11. [Family Wealth Report - Hedge Fund Icon To Shutter Firm, Open Family Office](https://www.familywealthreport.com/article.php/Hedge-Fund-Icon-To-Shutter-Firm%2C-Open-Family-Office) - 2010 source for family-office transition, outside-capital return, and record caveats.
+12. [Business Insider - Druckenmiller retirement letter](https://www.businessinsider.com/stanley-druckenmiller-retirement-letter-2010-8) - Source quoting/summarizing the retirement letter's large-capital and emotional-burden rationale.
+13. [Washington Post - Breaking the bank](https://www.washingtonpost.com/archive/business/2010/08/22/breaking-the-bank/543c1561-b2a1-4209-92cd-c5889c6c25de/) - 2010 source for closure and drawdown narrative.
+14. [Novel Investor - Stan Druckenmiller's Worst Mistake Ever](https://novelinvestor.com/stan-druckenmillers-worst-mistake-ever/) - Secondary transcript for the 1999 internet short loss; flagged for original source verification.
+15. [Acquirer's Multiple - I'm not sure I've ever made money on shorts](https://acquirersmultiple.com/2023/09/stanley-druckenmiller-im-not-sure-ive-ever-made-money-on-shorts/) - Secondary excerpt for short-selling mistake and asymmetric short-risk framing.
+16. [Brunnermeier and Nagel - Hedge Funds and the Technology Bubble](https://www.princeton.edu/~markus/research/papers/hedgefunds_bubble.pdf) - Academic context for hedge funds riding, not simply shorting, technology-bubble exposure.
+17. [SEC 13F-HR, Duquesne Family Office, 2026 Q1](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000004/xslForm13F_X02/primary_doc.xml) - Current official filing used to caveat Nvidia, public holdings, and public-record limitations.
+18. [SEC Form D/A, Juggernaut Fund LP, 2021](https://www.sec.gov/Archives/edgar/data/1219173/000121917321000001/xslFormDX01/primary_doc.xml) - Official private-fund structure source for legal/regulatory caveats.
+
+## T0044 search coverage notes
+
+Queries covered: Druckenmiller mistakes/losses; Hard Lessons/Nvidia; 2010 investor letter, closure, and drawdown; 1987 Black Monday/130% long; Quantum/Soros 2000 technology losses and resignation; dot-com short loss; Duquesne 2010 down 5%; SEC/lawsuit/FINRA/insider-trading checks; official SEC-domain searches; and Lost Tree Club/Schwager source tracing.
+
+## T0044 source limitations
+
+- The full original 2010 Duquesne investor letter was still not located.
+- Annual and intra-year Duquesne return/drawdown tables remain unreconstructed from audited statements or investor letters.
+- The 1999 $600 million short-loss story needs original video/audio verification; this task uses secondary transcript evidence and labels it accordingly.
+- 1999-2000 Quantum, Duquesne, and personal-account P&L attribution remains press-reported and often collapsed in public accounts.
+- 13F filings cannot reconstruct realized P&L, derivatives, shorts, cash, non-U.S. assets, or intraperiod trading.
+- Legal/regulatory searches found routine filings but no major personal enforcement case in the opened source set; later tasks should refresh this.
