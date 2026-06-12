@@ -34,7 +34,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-12T01:36:03Z T0027 | 004-peter-lynch | C-greatest-trades | investors/004-peter-lynch/greatest-trades.md
 - [x] done:2026-06-12T02:43:43Z T0028 | 004-peter-lynch | D-mistakes | investors/004-peter-lynch/mistakes-and-losses.md
 - [x] done:2026-06-12T03:29:06Z T0029 | 004-peter-lynch | E-own-words | investors/004-peter-lynch/in-their-own-words.md
-- [~] claimed:2026-06-12T08:24:01Z T0030 | 004-peter-lynch | F-key-writings | investors/004-peter-lynch/key-writings.md
+- [x] done:2026-06-12T08:24:08Z T0030 | 004-peter-lynch | F-key-writings | investors/004-peter-lynch/key-writings.md
 - [x] done:2026-06-12T05:28:32Z T0031 | 004-peter-lynch | G-mental-models | investors/004-peter-lynch/mental-models.md
 - [x] done:2026-06-12T06:26:20Z T0032 | 004-peter-lynch | H-synthesis | investors/004-peter-lynch/synthesis.md
 - [ ] T0033 | 005-george-soros | A-profile | investors/005-george-soros/profile.md
