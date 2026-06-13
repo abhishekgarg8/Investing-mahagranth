@@ -241,3 +241,8 @@
 - Output: investors/006-stanley-druckenmiller/key-writings.md (~2,925 words, 21 sources)
 - Notes: Completed key-writings guide treating Druckenmiller's corpus as speeches, long interviews, edited chapters, filings, and serious secondary works rather than a standalone authored book. Limitations preserved around the missing 2010 closure letter, quote provenance, page-level book verification, 13F limits, and Soros/Quantum attribution.
 - Backlog added: None
+
+## 2026-06-13T00:26:17Z — T0047 — 006-stanley-druckenmiller — G-mental-models — DONE
+- Output: investors/006-stanley-druckenmiller/mental-models.md (~3,286 words, 18 task-specific sources)
+- Notes: Reconstructed Druckenmiller's operational mental-model checklist around forward-price causality, liquidity/timing, cross-asset fat-pitch selection, concentration, portfolio-matrix risk control, and hot/cold sizing. Preserved transferability limits around 13F copycats, specialist networks, mandate freedom, scale/client pressure, and the missing T0045 own-words file.
+- Backlog added: None
