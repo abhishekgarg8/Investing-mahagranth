@@ -6,6 +6,7 @@
 | 003 | Benjamin Graham | Value investing; security analysis; margin of safety; net-current-asset value; special situations; shareholder activism | Codified security analysis and margin-of-safety investing, turning neglected assets, statistical bargains, and special situations into a teachable discipline. | [investors/003-benjamin-graham/](investors/003-benjamin-graham/) |
 | 004 | Peter Lynch | GARP; bottom-up stock picking; consumer scuttlebutt; category-flexible mutual fund; broad active portfolio | Turned everyday observation into researched stock stories, using Fidelity's platform, category discipline, and tolerance for volatility to compound Magellan at exceptional scale. | [investors/004-peter-lynch/](investors/004-peter-lynch/) |
 | 005 | George Soros | Global macro; reflexivity; policy-regime arbitrage; currency speculation; concentrated sizing; political economy | Turned fallibility and reflexivity into a global macro method for trading brittle policy regimes and feedback loops, while exposing the limits of opacity, leverage, and public influence. | [investors/005-george-soros/](investors/005-george-soros/) |
+| 006 | Stanley Druckenmiller | Global macro; cross-asset concentration; liquidity/policy inflection; fast loss-taking; family-office capital | Converted forward-looking macro causality, liquidity timing, and rare aggressive sizing into a decades-long record, while exposing limits around audited returns, Quantum attribution, scale, and 13F copycats. | [investors/006-stanley-druckenmiller/](investors/006-stanley-druckenmiller/) |
 
 
 
