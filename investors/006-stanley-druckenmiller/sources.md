@@ -208,3 +208,36 @@ Queries covered: Druckenmiller mental models, investment philosophy, Lost Tree C
 - 1999-2000 Quantum/Duquesne/personal-account attribution remains partly press-reported and collapsed across Soros Fund Management actors.
 - Current 13F filings are useful for observable U.S.-listed long securities and options only; they are not evidence of total AUM, full macro risk, shorts, cash, currencies, commodities, non-U.S. securities, or realized P&L.
 - Legal/regulatory searches again found routine SEC filings and private-fund documents but no major personal enforcement case in the opened source set; synthesis should refresh rather than treat this as permanent proof.
+
+## T0045 E-own-words source additions
+
+As of 2026-06-13T01:35:23Z. The own-words task reused the T0041-T0047 Druckenmiller source map and added/verified the following quote-specific sources.
+
+1. [Morgan Stanley - Hard Lessons: Stan Druckenmiller](https://www.morganstanley.com/insights/videos/hard-lessons/duquesne-stan-druckenmiller-iliana-bouzali) - Official 2026 transcript used for current-process snippets on contrarianism, volatility, macro opportunity set, recovery from mistakes, and current Duquesne Family Office context.
+2. [Goldman Sachs - Talks at GS: Stanley Druckenmiller](https://www.goldmansachs.com/insights/talks-at-gs/stanley-druckenmiller) - Official event page establishing provenance for the 2021 Goldman conversation.
+3. [Livewire Markets PDF - Talks at GS transcript](https://www.livewiremarkets.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBckNLIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--22c7d1b9313e40e108f94e0e1878baf2704bf257/transcript.pdf) - Readable transcript source used for short snippets on concentration, flexibility, daily P&L feedback, luck, and volatile macro setup.
+4. [A Letter a Day - John Collison and Stan Druckenmiller](https://aletteraday.substack.com/p/letter-40-john-collison-and-stan) - Transcript source used for snippets on uncertainty, selectivity, sizing, and pressing when judgment is unusually aligned.
+5. [Norges Bank Investment Management - 2023 Investment Conference](https://www.nbim.no/en/investments/annual-investment-conference/2023-investment-conference/) - Official event page corroborating Druckenmiller's NBIM appearance and conference context.
+6. [Tidal Wave / Arda Capital - Transcript: Druckenmiller, April 2023](https://newsletter.tidalwaveresearch.com/p/transcript-druckenmiller-april-2023) - Readable transcript of the NBIM interview used for snippets on uncertainty, drawdown arithmetic, opportunity scarcity, and speed of investigation.
+7. [Norges Bank Investment Management - In Good Company episode page, 2024](https://www.nbim.no/en/news-and-insights/podcast/2024/stan-druckenmiller-inside-the-mind-of-a-legendary-investor/) - Official podcast page used for primary-materials indexing and later-current context; not quoted directly in T0045.
+8. [Cove Street Capital PDF - Druckenmiller Lost Tree Club speech](https://covestreetcapital.com/wp-content/uploads/2015/03/Druckenmiller-_Speech.pdf) - Best provenance found for the 2015 Lost Tree speech; exact text still needs PDF-level verification when extraction tools allow it.
+9. [Arya Deniz transcript mirror - Stanley Druckenmiller's Lost Tree speech](https://aryadeniz.substack.com/p/stanley-druckenmillers-lost-tree) - Readable mirror used for short Lost Tree snippets with provenance caveat.
+10. [Pittsburgh Quarterly - What Do I Know? Stanley Druckenmiller](https://pittsburghquarterly.com/articles/what-do-i-know-stanley-druckenmiller/) - First-person/autobiographical interview used for snippets on luck, Pittsburgh identity, linked markets, work motivation, and leadership selection.
+11. [SEC 13F information table, Duquesne Family Office LLC, 2026 Q1](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000004/xslForm13F_X02/primary_doc.xml) - Primary regulatory context for current public holdings; included in index, not used as an own-words source.
+12. [SEC Form D/A, Juggernaut Capital Partners VI, L.P., 2021](https://www.sec.gov/Archives/edgar/data/1868879/000186887921000001/xslFormDX01/primary_doc.xml) - Primary private-filing context for Druckenmiller-related entities; included for regulatory context, not quoted.
+13. [Archive.org - The New Market Wizards](https://archive.org/details/newmarketwizards00jack) - Major edited interview source for early process and Soros-era context; included in index but not quoted because page-level verification remains open.
+14. [O'Reilly - Inside the House of Money, Chapter 12 preview](https://www.oreilly.com/library/view/inside-the-house/9781118865729/xhtml/Chapter12.html) - Secondary/near-primary context for Scott Bessent and Soros/Quantum attribution; not an own-words quote source.
+15. [Business Insider - Stanley Druckenmiller retirement letter coverage](https://www.businessinsider.com/stanley-druckenmiller-retirement-letter-2010-8) - Secondary lead for the 2010 closure letter; no direct closure-letter quote was used because the full primary letter remains missing.
+
+## T0045 search coverage notes
+
+Queries covered: Druckenmiller own words, speeches, interviews, Hard Lessons transcript, Goldman Sachs transcript, Sohn/Collison transcript, NBIM/Norges Bank transcript and official event page, Lost Tree Club PDF/transcript, Pittsburgh Quarterly interview, New Market Wizards, Inside the House of Money, 2010 Duquesne closure letter, SEC 13F/Form D filings, SEC complaint, lawsuit, FINRA/BrokerCheck, and current legal/regulatory checks.
+
+## T0045 source limitations
+
+- The original full 2010 Duquesne closure letter remains missing; this task did not quote it from secondary excerpts.
+- Lost Tree exact wording was taken from a readable transcript mirror and cross-referenced to the Cove Street PDF provenance, but future work should recheck against a clean PDF extraction or archived original.
+- Schwager/Drobny/Mallaby materials remain important but edited or secondary book sources; T0045 used them for indexing/context rather than direct quotation.
+- Quote snippets were deliberately short to satisfy the E-own-words template while respecting copyright limits.
+- Legal/regulatory searches again found routine SEC filings and no major personal enforcement case in the opened source set; refresh this in synthesis rather than treating it as permanent proof.
+
