@@ -246,3 +246,8 @@
 - Output: investors/006-stanley-druckenmiller/mental-models.md (~3,286 words, 18 task-specific sources)
 - Notes: Reconstructed Druckenmiller's operational mental-model checklist around forward-price causality, liquidity/timing, cross-asset fat-pitch selection, concentration, portfolio-matrix risk control, and hot/cold sizing. Preserved transferability limits around 13F copycats, specialist networks, mandate freedom, scale/client pressure, and the missing T0045 own-words file.
 - Backlog added: None
+
+## 2026-06-13T01:35:23Z — T0045 — 006-stanley-druckenmiller — E-own-words — DONE
+- Output: investors/006-stanley-druckenmiller/in-their-own-words.md (~1650 words, 15 indexed task-specific sources)
+- Notes: Stale retry completed the missing own-words file with 28 short, source-visible quote snippets across five themes and an annotated primary-materials index. No quote aggregators used; limitations preserved around the missing 2010 closure letter, Lost Tree transcript provenance, and legal/regulatory search.
+- Backlog added: None
